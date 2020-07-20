@@ -1,0 +1,15 @@
+
+
+Week 1:
+Simple data loading and plotting
+Simple introduction to a few key python concepts
+Matplotlib object based plotting api
+Examples: plotting climate proxy time series
+
+Week 2:
+Indexing
+Numpy & np indexing
+data operations and manipulation
+basic statistics
+Examples: climate proxy time series, LA-ICPMS data reduction
+https://www.researchgate.net/publication/328844240_LAtools_A_data_analysis_package_for_the_reproducible_reduction_of_LA-ICPMS_data
