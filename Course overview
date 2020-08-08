@@ -5,6 +5,10 @@ Simple data loading and plotting
 Simple introduction to a few key python concepts
 Matplotlib object based plotting api
 Examples: plotting climate proxy time series
+Stretch: load and plot more datasets
+Homework: Read through next week's lecture notes
+*Data* Find several more to try plotting
+*lecture ppt*
 
 Week 2:
 Basic data handling
@@ -14,6 +18,9 @@ data operations and manipulation
 basic statistics/aggregation
 Excercises: TBD meteo or hydrology dataset (modern)
 LA-ICPMS data reduction (https://www.researchgate.net/publication/328844240_LAtools_A_data_analysis_package_for_the_reproducible_reduction_of_LA-ICPMS_data)
+Homework: read next week + find interesting data sets (own or Pangaea) to work with in future classes
+*Data* Find appropriate meteo data
+
 
 Week 3:
 Time series
