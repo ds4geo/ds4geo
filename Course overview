@@ -12,7 +12,7 @@ Homework: Read through next week's lecture notes
 
 Week 2:
 Basic data handling
-Indexing
+Indexing (lists)
 Numpy & np indexing
 data operations and manipulation
 basic statistics/aggregation
@@ -24,6 +24,7 @@ Homework: read next week + find interesting data sets (own or Pangaea) to work w
 
 Week 3:
 Time series
+pandas indexing
 Interpolating, resampling, smoothing/filtering, etc.
 python flow controls and scipy
 Excercises:
