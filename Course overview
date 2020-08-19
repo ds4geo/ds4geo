@@ -9,6 +9,7 @@ Stretch: load and plot more datasets
 Homework: Read through next week's lecture notes
 *Data* Find several more to try plotting
 *lecture ppt*
+Aim of course: not exhaustive look at all topics or all methods within topics, but overview (need to make sure mention relevant things not addressing) with some examples to provide students basis for further learning and application. Aiming for important basics in geology and in industry, so don't aim to go into e.g. stats which are mainly used just for specific geological problems.
 
 Week 2:
 Basic data handling
@@ -33,7 +34,7 @@ Multiple climate proxy records (NGRIP, Antarctic, ocean? speleothem? - Ask Chris
 
 
 Week 4:
-Data comparisons, regressions, curve fitting, etc.
+Data comparisons, regressions, curve fitting, etc. (multi-variate statistics?)
 Excercises:
 Data from week before which is now prepared
 
