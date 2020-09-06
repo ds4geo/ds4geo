@@ -6,7 +6,7 @@ Simple introduction to a few key python concepts
 Matplotlib object based plotting api
 Examples: plotting climate proxy time series
 Stretch: load and plot more datasets
-Homework: Read through next week's lecture notes
+Homework: Find >=2 "time" series and one non-"time" series data - 5%
 *Data* Find several more to try plotting
 *lecture ppt*
 Aim of course: not exhaustive look at all topics or all methods within topics, but overview (need to make sure mention relevant things not addressing) with some examples to provide students basis for further learning and application. Aiming for important basics in geology and in industry, so don't aim to go into e.g. stats which are mainly used just for specific geological problems.
@@ -16,7 +16,7 @@ Basic data handling
 Indexing (lists)
 Numpy & np indexing
 data operations and manipulation
-basic statistics/aggregation
+basic statistics/aggregation (practice but not theory_
 Excercises: TBD meteo or hydrology dataset (modern)
 LA-ICPMS data reduction (https://www.researchgate.net/publication/328844240_LAtools_A_data_analysis_package_for_the_reproducible_reduction_of_LA-ICPMS_data)
 Homework: read next week + find interesting data sets (own or Pangaea) to work with in future classes
@@ -32,22 +32,23 @@ Excercises:
 Spannagel (complex data loading, resampling/interpolating)
 Multiple climate proxy records (NGRIP, Antarctic, ocean? speleothem? - Ask Christoph/Gina)
 
-
 Week 4:
-Data comparisons, regressions, curve fitting, etc. (multi-variate statistics?)
+Non-time series data, basic uni and multi-variate stats
+Basic stats (theory/value - see the art of statistics) - averages, percentiles, standard deviation
+Histograms, KDE
+GLWD_1 lakes, 
+
+Week 5:
+Time series/more complex uni and multi-variate stats Data comparisons, regressions, curve fitting, etc. (multi-variate statistics?)
 Excercises:
 Data from week before which is now prepared
 
-
-Week 5:
+Week 6:
 Data viz deep dive
 mainly matplotlib
 Example of using 3rd party library for e.g. ternary plot
 Find appropriate data for matplotlib: image, histogram, bar (complex, e.g. stacked), scatter, other things here: https://matplotlib.org/3.3.0/tutorials/introductory/sample_plots.html
 Extended interactive session with student's byo data?
-
-Week 6
-???
 
 Week 7:
 Unsupervised ML
