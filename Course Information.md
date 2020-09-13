@@ -11,6 +11,8 @@ All assessment is based on coursework comprising two components:
 * Homework assignments in weeks 1,X,X,X comprising 5-15 % of the total grade each, together comprising X% of the total
   These assignments are required for continuing the in-class work, so are due by the following class (i.e. 1 week)
 * A larger project assigned mid-way through the course and due in X, comprising Y% of the total
+* All assignments except the first one are to be submitted as Jupyter Notebooks
+* **Submitted how? OLAT?**
 
 # Out-of-class work expectations
 The homework assignments are expected to take 1-2 hours in the weeks they are assigned.
@@ -18,10 +20,13 @@ The homework assignments are expected to take 1-2 hours in the weeks they are as
 Furthermore, at least 1 hour a week of independent work (reading, self-set assignments, etc.) - see https://github.com/ds4geo/ds4geo/blob/master/Recommended%20Reading. While the course is designed for students without programming experience, additional python programming practice between classes is **highly** recommended. 
 
 # Class structure and what to expect
+The classes will be taught as a series of short lectures to introduce topics, followed by interactive workshops where concepts will immediately be applied and practiced via coding in python. The course notes are Jupyter Notebooks (**example**) which combine typical course notes as text and images, along with interactive python code which can be read, expanded upon, written and run within the notebook.
+The course is a 2 hour VU, but will be taught as longer 2:15 sessions for only the first 10 weeks of semester. This gives students additional time to complete the main project.
 
-what to expect
 
-**bold**
+
+Overview of course structure and content here: **link**
+
 
 in last week september send this info doc:
 , outline, when, where, what to expect, what to bring, roughly exam/projectcan't miss too much of course! exam/assessment, etc.
