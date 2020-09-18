@@ -25,11 +25,11 @@
 
 **Assignment:**
 
-# Session 4
+# Session 4 - Simple statistics and describing a dataset (short to allow discussion/interaction and catchup)
 **Topics covered:**
 
 **Key libraries:**
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** <revisit weather?>
