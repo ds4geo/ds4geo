@@ -14,7 +14,7 @@
 
 **Geoscience topics/datasets used:** LA-ICPMS calibration
 
-**Assignment:** <weather desc part 1? come back more advanced later?>
+**Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
 
 # Session 3
 **Topics covered:**
@@ -23,9 +23,10 @@
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** <weather desc part 1? come back more advanced later?>
 
-# Session 4 - Simple statistics and describing a dataset (short to allow discussion/interaction and catchup)
+# Session 4
+Simple statistics and describing a dataset (short to allow discussion/interaction and catchup)
 **Topics covered:**
 
 **Key libraries:**
