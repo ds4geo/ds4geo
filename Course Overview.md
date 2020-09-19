@@ -27,6 +27,11 @@
 # Session 4
 Start with time to catch up/discuss general, plus discuss previous assignment (Weather pt 1)
 Simple statistics and describing a dataset
+* catch up
+* assignment review
+* data story telling
+* univariate stats
+* Open session for "how do I do that?", data exporation or revisiting previous weeks, answering questions, etc.
 **Topics covered:**
 
 **Key libraries:**
