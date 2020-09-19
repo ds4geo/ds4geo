@@ -41,7 +41,7 @@ Simple statistics and describing a dataset
 **Assignment:** <revisit weather?>
 
 # Session 5
-**Topics covered:**
+**Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
 
 **Key libraries:**
 
@@ -50,13 +50,13 @@ Simple statistics and describing a dataset
 **Assignment:**
 
 # Session 6
-**Topics covered:**
+**Topics covered:** Visualisation deep dive and open session
 
 **Key libraries:**
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** introduce main project
 
 # Session 7
 **Topics covered:** Unsupervised Machine Learning
