@@ -17,8 +17,7 @@
 **Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
 
 # Session 3
-**Topics covered:**
-
+**Topics covered:** Working with time-series
 **Key libraries:**
 
 **Geoscience topics/datasets used:**
@@ -26,7 +25,8 @@
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
 # Session 4
-Simple statistics and describing a dataset + catchup/ (short to allow discussion/interaction and catchup)
+Start with time to catch up/discuss general, plus discuss previous assignment (Weather pt 1)
+Simple statistics and describing a dataset
 **Topics covered:**
 
 **Key libraries:**
