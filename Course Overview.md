@@ -26,7 +26,7 @@
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
 # Session 4
-Simple statistics and describing a dataset (short to allow discussion/interaction and catchup)
+Simple statistics and describing a dataset + catchup/ (short to allow discussion/interaction and catchup)
 **Topics covered:**
 
 **Key libraries:**
@@ -34,3 +34,58 @@ Simple statistics and describing a dataset (short to allow discussion/interactio
 **Geoscience topics/datasets used:**
 
 **Assignment:** <revisit weather?>
+
+# Session 5
+**Topics covered:**
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
+# Session 6
+**Topics covered:**
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
+# Session 7
+**Topics covered:** Unsupervised Machine Learning
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
+# Session 8
+**Topics covered:** Supervised Machine Learning
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
+# Session 9
+**Topics covered:** Deep learning
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
+# Session 10
+**Topics covered:** Scientific Computing and Collaboration
+
+**Key libraries:**
+
+**Geoscience topics/datasets used:**
+
+**Assignment:**
+
