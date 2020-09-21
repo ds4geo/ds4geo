@@ -1,3 +1,8 @@
+1. Intro, LR04, NGRIP, alpine flood, assignment: find more data
+2. python objects, object orientated plotting, ???geo example???, assignment: plotting data
+3. Numpy, laicpms, assignment
+
+
 # Session 1
 **Topics covered:** Python intro, simple data loading and plotting
 
