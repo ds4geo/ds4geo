@@ -1,6 +1,13 @@
 1. Intro, LR04, NGRIP, alpine flood, assignment: find more data
 2. python objects, object orientated plotting, ???geo example???, assignment: plotting data
-3. Numpy, laicpms, assignment
+3. Numpy, laicpms, assignment: weather 1
+4. interpolation and smoothing, Spanagel, assignment: advanced filtering
+5. Data story telling, simple stats, "how do I do that?", lake and cave databases? Assignment: weather 2
+6. Multi-variate stats, regressions, alternative plotting libraries ???, assignment: ?
+7. Un-supervised learning (clustering, PCA), ???, Assignment: main project?
+8. Supervised learning (focus on decision tree based, mention SVMs)
+9. Deep learning
+10. Scientific computing
 
 
 # Session 1
