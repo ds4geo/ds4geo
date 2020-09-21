@@ -24,7 +24,7 @@
 
 **Key libraries:** Python core, Matplotlib
 
-**Geoscience topics/datasets used:** LA-ICPMS calibration
+**Geoscience topics/datasets used:** ??
 
 **Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
 
@@ -33,48 +33,47 @@
 
 **Key libraries:** Numpy
 
-**Geoscience topics/datasets used:** LA-ICPMS
+**Geoscience topics/datasets used:** LA-ICPMS data reduction
 
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
 # Session 4
-Start with time to catch up/discuss general, plus discuss previous assignment (Weather pt 1)
-Simple statistics and describing a dataset
+
 * catch up
 * assignment review
 * data story telling
 * univariate stats
 * Open session for "how do I do that?", data exporation or revisiting previous weeks, answering questions, etc.
-**Topics covered:**
+**Topics covered:** (Time series) Interpolation, smoothing
 
-**Key libraries:**
+**Key libraries:** Scipy, Numpy
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** Spanagel cave monitoring data
 
-**Assignment:** <revisit weather?>
+**Assignment:** advanced filtering?
 
 # Session 5
-**Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
+**Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
 
-**Key libraries:**
+**Key libraries:** Pandas (Geopandas?)
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** Lake DB, Caves DB?
 
-**Assignment:**
+**Assignment:** Weather 2
 
 # Session 6
-**Topics covered:** Visualisation deep dive and open session
+**Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
 
-**Key libraries:**
+**Key libraries:** Scipy, Numpy
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** Spanagel?
 
 **Assignment:** introduce main project
 
 # Session 7
 **Topics covered:** Unsupervised Machine Learning
 
-**Key libraries:**
+**Key libraries:** Sklearn
 
 **Geoscience topics/datasets used:**
 
