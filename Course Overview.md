@@ -1,9 +1,9 @@
 1. Intro, LR04, NGRIP, alpine flood, assignment: find more data
-2. python objects, object orientated plotting, ???geo example???, assignment: plotting data
+2. python objects, object orientated plotting + mention other libraries?, ???geo example???, assignment: plotting data
 3. Numpy, laicpms, assignment: weather 1
 4. interpolation and smoothing, Spanagel, assignment: advanced filtering
 5. Data story telling, simple stats, "how do I do that?", lake and cave databases? Assignment: weather 2
-6. Multi-variate stats, regressions, alternative plotting libraries ???, assignment: ?
+6. Multi-variate stats, regressions, assignment: ?
 7. Un-supervised learning (clustering, PCA), ???, Assignment: main project?
 8. Supervised learning (focus on decision tree based, mention SVMs)
 9. Deep learning
@@ -20,19 +20,20 @@
 **Assignment:** Finding interesting datasets
 
 # Session 2
-**Topics covered:** Python lists, dicts, indexing, arrays, operations, aggregations
+**Topics covered:** Python lists, dicts, indexing, object orientated programming/plotting
 
-**Key libraries:** Python core, Numpy
+**Key libraries:** Python core, Matplotlib
 
 **Geoscience topics/datasets used:** LA-ICPMS calibration
 
 **Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
 
 # Session 3
-**Topics covered:** Working with time-series
-**Key libraries:**
+**Topics covered:** (Time-series), Numpy, arrays, operations, aggregations, indexing
 
-**Geoscience topics/datasets used:**
+**Key libraries:** Numpy
+
+**Geoscience topics/datasets used:** LA-ICPMS
 
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
