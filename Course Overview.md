@@ -38,12 +38,6 @@
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
 # Session 4
-
-* catch up
-* assignment review
-* data story telling
-* univariate stats
-* Open session for "how do I do that?", data exporation or revisiting previous weeks, answering questions, etc.
 **Topics covered:** (Time series) Interpolation, smoothing
 
 **Key libraries:** Scipy, Numpy
