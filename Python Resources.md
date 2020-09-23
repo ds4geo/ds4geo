@@ -8,4 +8,21 @@ Python Data Science Handbook:
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
 
+# Useful Python Libraries
+
+
+## Data analysis
+Numpy
+Pandas
+Dask
+
+
+## Geospatial
+Geopandas - Pandas plus support for geometries and geospatial operations
+Rasterio - Raster input, output, and related utilities (e.g. reprojection)
+
+https://pydeck.gl/index.html
+
+## Plotting/Visualisation
+
 
