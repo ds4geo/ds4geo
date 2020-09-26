@@ -1,16 +1,20 @@
-# Course Attendance
+# Course Attendance and Requirements
 Classes will take place:
 * on Wednesday afternoons at 15:30 until ca. 17:45
-* between 07/10/2020 and 9/12/2020 inclusive
+* between 07/10/2020 and 9/12/2020 inclusive (10 sessions)
 * in the Geology Institute Schausammlung
+
 The course will be taught interactively, so a laptop with an up-to-date web-browser and an internet connection (e.g. to the university wifi) **must** be brought to each lecture.
+
+A Google account is required for the in-class excercises and homework assignments. If you do not have one, and are not able/willing to get one, please contact the course instructor (X(at).uibk.ac.at) as early as possible.
+
 Due to the structure of the classes (see below), attendance is requried for the full 2:15 hour period.
 
 # Course Assessment
 All assessment is based on coursework comprising two components:
-* Homework assignments in weeks 1,X,X,X comprising 5-15 % of the total grade each, together comprising X% of the total
-  These assignments are required for continuing the in-class work, so are due by the following class (i.e. 1 week)
-* A larger project assigned mid-way through the course and due in X, comprising Y% of the total
+* Homework assignments in weeks 1,2,3,4 and 5 comprising 5 of the total grade each, together comprising 25% of the total.
+ * These assignments are required for class discussions and continuing the in-class work, so are due before the following session (i.e. 23:59 on the Tuesday before each class).
+* A larger project assigned mid-way through the course and due in X, comprising 75% of the total
 * All assignments except the first one are to be submitted as Jupyter Notebooks
 * **Submitted how? OLAT?**
 
