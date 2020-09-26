@@ -4,7 +4,7 @@ Classes will take place:
 * between 07/10/2020 and 9/12/2020 inclusive (10 sessions)
 * in the Geology Institute Schausammlung
 
-The course will be taught interactively, so a laptop with an up-to-date web-browser and an internet connection (e.g. to the university wifi) **must** be brought to each lecture.
+The course will be taught interactively, so a laptop with an up-to-date web-browser and an internet connection (e.g. to the university wifi) **must** be brought to each lecture. Participants should also bring writing materials (pens and paper).
 
 A Google account is required for the in-class excercises and homework assignments. If you do not have one, and are not able/willing to get one, please contact the course instructor (X(at).uibk.ac.at) as early as possible.
 
