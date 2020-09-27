@@ -6,16 +6,16 @@ Classes will take place:
 
 The course will be taught interactively, so a laptop with an up-to-date web-browser and an internet connection (e.g. to the university wifi) **must** be brought to each lecture. Participants should also bring writing materials (pens and paper).
 
-A Google account is required for the in-class excercises and homework assignments. If you do not have one, and are not able/willing to get one, please contact the course instructor (X(at).uibk.ac.at) as early as possible.
+A **Google account is required** for the in-class excercises and homework assignments. **If you do not have one**, and are not able/willing to get one, please **contact** the course instructor (X(at).uibk.ac.at) **as soon as possible**.
 
 Due to the structure of the classes (see below), attendance is requried for the full 2:15 hour period.
 
 # Course Assessment
 All assessment is based on coursework comprising two components:
 * Homework assignments in weeks 1,2,3,4 and 5 comprising 5 of the total grade each, together comprising 25% of the total.
- * These assignments are required for class discussions and continuing the in-class work, so are due before the following session (i.e. 23:59 on the Tuesday before each class).
+ * These assignments are required for class discussions and continuing the in-class work. Therefore, only 1 (weeks 1 and 2) or 2 (weeks 3,4 and 5) weeks are given to complete them.
 * A larger project assigned mid-way through the course and due in X, comprising 75% of the total
-* All assignments except the first one are to be submitted as Jupyter Notebooks
+* All assignments except the week 1 assignment one are to be submitted as Jupyter Notebooks
 * **Submitted how? OLAT?**
 
 # Out-of-class work expectations
