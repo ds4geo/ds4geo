@@ -10,6 +10,8 @@ A **Google account is required** for the in-class excercises and homework assign
 
 Due to the structure of the classes (see below), attendance is requried for the full 2:15 hour period.
 
+Each session builds heavily on previous ones, so all classes must be attended. If a class is missed, it is the student's responsibility to go through the course notes and excercises to catch up.
+
 # Course Assessment
 All assessment is based on coursework comprising two components:
 * Homework assignments in weeks 1,2,3,4 and 5 comprising 5 of the total grade each, together comprising 25% of the total.
