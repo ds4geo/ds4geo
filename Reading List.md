@@ -1,5 +1,4 @@
 
-
 #Statistics
 Book: The Art of Statistics - David Spiegelhalter
 Book: Statistics Done Wrong - Alex Reinhart
