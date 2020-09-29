@@ -31,8 +31,4 @@ The course is a 2 hour VU, but will be taught as longer 2:15 sessions for only t
 
 
 
-Overview of course structure and content here: **link**
-
-
-in last week september send this info doc:
-, outline, when, where, what to expect, what to bring, roughly exam/projectcan't miss too much of course! exam/assessment, etc.
+An overview of the course structure and content can be found here: https://https://github.com/ds4geo/ds4geo/blob/master/Course%20Overview.md
