@@ -25,4 +25,4 @@ Quick links to the course notes:
 
 <a href="https://colab.research.google.com/github/ds4geo/ds4geo/blob/master/WS%202020%20Course%20Notes/Session%204.ipynb" target="_blank">Session 4 - Time Series</a>
 
-<a href="https://colab.research.google.com/github/ds4geo/ds4geo/blob/master/WS%202020%20Course%20Notes/Session%205.ipynb" target="_blank">Session 5 - Numpy etc.</a>
+<a href="https://colab.research.google.com/github/ds4geo/ds4geo/blob/master/WS%202020%20Course%20Notes/Session%205.ipynb" target="_blank">Session 5 - Data Story Telling</a>
