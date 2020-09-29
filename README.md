@@ -8,7 +8,7 @@ The course will comply with the University COVID-19 regulations. As 29.9.20, thi
 If any course participant has any concerns about attending or about the regulations in class, please contact me as soon as possible (samuel.barrett(at)uibk.ac.at).
 
 # The Course
-The course is a mix of short lectures, practical workshops and discussion. It will take place on Wednesday afternoons at 15:30 until ca. 17:45, between 07/10/2020 and 9/12/2020 inclusive (10 sessions) in the Geology Institute Schausammlung. Bring a laptop!
+The Introduction to Data Science for Geoscientists course is a mix of short lectures, practical workshops and discussion. It will take place on Wednesday afternoons at 15:30 until ca. 17:45, between 07/10/2020 and 9/12/2020 inclusive (10 sessions) in the Geology Institute Schausammlung. Bring a laptop!
 
 Full details about the course, content, assessment, etc. are here: github.com/ds4geo/ds4geo/blob/master/Course%20Information.md
 
