@@ -1,15 +1,3 @@
-1. Intro, LR04, NGRIP, alpine flood, assignment: find more data
-2. python objects, object orientated plotting + mention other libraries?, ???geo example???, assignment: plotting data
-3. Numpy, laicpms, assignment: weather 1
-4. interpolation and smoothing, Spanagel, assignment: advanced filtering
-5. Data story telling, simple stats, "how do I do that?", lake and cave databases? Assignment: weather 2
-6. Multi-variate stats, regressions, assignment: ?
-7. Un-supervised learning (clustering, PCA), ???, Assignment: main project?
-8. Supervised learning (focus on decision tree based, mention SVMs)
-9. Deep learning
-10. Scientific computing
-
-
 # Session 1 - Introduction
 **Topics covered:** Python intro, simple data loading and plotting
 
@@ -26,7 +14,7 @@
 
 **Geoscience topics/datasets used:** ??
 
-**Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
+**Assignment:** Data plotting practice
 
 # Session 3 - Numpy etc.
 **Topics covered:** (Time-series), Numpy, arrays, operations, aggregations, indexing
@@ -35,7 +23,7 @@
 
 **Geoscience topics/datasets used:** LA-ICPMS data reduction
 
-**Assignment:** <weather desc part 1? come back more advanced later?>
+**Assignment:** Weather data story part 1
 
 # Session 4 - Time Series
 **Topics covered:** (Time series) Interpolation, smoothing
@@ -44,7 +32,7 @@
 
 **Geoscience topics/datasets used:** Spanagel cave monitoring data
 
-**Assignment:** advanced filtering?
+**Assignment:** Re-sampling and advanced filtering
 
 # Session 5 - Data Story Telling
 **Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
@@ -53,7 +41,7 @@
 
 **Geoscience topics/datasets used:** Lake DB, Caves DB?
 
-**Assignment:** Weather 2
+**Assignment:** Weather data story part 2
 
 # Session 6
 **Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
@@ -62,7 +50,7 @@
 
 **Geoscience topics/datasets used:** Spanagel?
 
-**Assignment:** introduce main project
+**Assignment:** Start of main project
 
 # Session 7
 **Topics covered:** Unsupervised Machine Learning
@@ -71,7 +59,7 @@
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** Main project
 
 # Session 8
 **Topics covered:** Supervised Machine Learning
@@ -80,7 +68,7 @@
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** Main project
 
 # Session 9
 **Topics covered:** Deep learning
@@ -89,7 +77,7 @@
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** Main project
 
 # Session 10
 **Topics covered:** Scientific Computing and Collaboration
@@ -98,5 +86,5 @@
 
 **Geoscience topics/datasets used:**
 
-**Assignment:**
+**Assignment:** Main project
 
