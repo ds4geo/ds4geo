@@ -10,7 +10,7 @@
 10. Scientific computing
 
 
-# Session 1
+# Session 1 - Introduction
 **Topics covered:** Python intro, simple data loading and plotting
 
 **Key libraries:** Pandas, Matplotlib
@@ -19,7 +19,7 @@
 
 **Assignment:** Finding interesting datasets
 
-# Session 2
+# Session 2 - Python Basics for Data Science
 **Topics covered:** Python lists, dicts, indexing, object orientated programming/plotting
 
 **Key libraries:** Python core, Matplotlib
@@ -28,7 +28,7 @@
 
 **Assignment:** <plotting data, 1-2 data sets, very open, show progression> 
 
-# Session 3
+# Session 3 - Numpy etc.
 **Topics covered:** (Time-series), Numpy, arrays, operations, aggregations, indexing
 
 **Key libraries:** Numpy
@@ -37,7 +37,7 @@
 
 **Assignment:** <weather desc part 1? come back more advanced later?>
 
-# Session 4
+# Session 4 - Time Series
 **Topics covered:** (Time series) Interpolation, smoothing
 
 **Key libraries:** Scipy, Numpy
@@ -46,7 +46,7 @@
 
 **Assignment:** advanced filtering?
 
-# Session 5
+# Session 5 - Data Story Telling
 **Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
 
 **Key libraries:** Pandas (Geopandas?)
