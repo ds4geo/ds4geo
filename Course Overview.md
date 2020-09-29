@@ -12,34 +12,34 @@
 
 **Key libraries:** Python core, Matplotlib
 
-**Geoscience topics/datasets used:** ??
+**Geoscience topics/datasets used:** Benthic foram stack (LR04), Ice core isotopes (NGRIP)
 
 **Assignment:** Data plotting practice
 
 # Session 3 - Numpy etc.
 **Topics covered:** (Time-series), Numpy, arrays, operations, aggregations, indexing
 
-**Key libraries:** Numpy
+**Key libraries:** Numpy, Pandas, Matplotlib
 
-**Geoscience topics/datasets used:** LA-ICPMS data reduction
+**Geoscience topics/datasets used:** Foram LA-ICPMS (data reduction)
 
 **Assignment:** Weather data story part 1
 
 # Session 4 - Time Series
 **Topics covered:** (Time series) Interpolation, smoothing
 
-**Key libraries:** Scipy, Numpy
+**Key libraries:** Scipy, Numpy, Pandas
 
-**Geoscience topics/datasets used:** Spanagel cave monitoring data
+**Geoscience topics/datasets used:** Spanagel cave monitoring data (temperature and CO2)
 
 **Assignment:** Re-sampling and advanced filtering
 
 # Session 5 - Data Story Telling
 **Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
 
-**Key libraries:** Pandas (Geopandas?)
+**Key libraries:** Pandas, Matplotlib
 
-**Geoscience topics/datasets used:** Lake DB, Caves DB?
+**Geoscience topics/datasets used:** Global Lakes and Wetlands Database
 
 **Assignment:** Weather data story part 2
 
