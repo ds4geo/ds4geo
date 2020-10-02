@@ -23,7 +23,7 @@ All assessment is based on coursework comprising two components:
 # Out-of-class work expectations
 The homework assignments are expected to take 1-2 hours in the weeks they are assigned.
 
-Furthermore, at least 1 hour a week of independent work (reading, self-set assignments, etc.) - see https://github.com/ds4geo/ds4geo/blob/master/Recommended%20Reading. While the course is designed for students without programming experience, additional python programming practice between classes is **highly** recommended. 
+Furthermore, at least 1 hour a week of independent work (reading, self-set assignments, etc.) - see the [reading list](Recommended%20Reading). While the course is designed for students without programming experience, additional python programming practice between classes is **highly** recommended. 
 
 # Class structure and what to expect
 The classes will be taught as a series of short lectures to introduce topics, followed by interactive workshops where concepts will immediately be applied and practiced via coding in python. The course notes are Jupyter Notebooks (**example**) which combine typical course notes as text and images, along with interactive python code which can be read, expanded upon, written and run within the notebook.
@@ -31,4 +31,4 @@ The course is a 2 hour VU, but will be taught as longer 2:15 sessions for only t
 
 
 
-An overview of the course structure and content can be found here: https://https://github.com/ds4geo/ds4geo/blob/master/Course%20Overview.md
+An overview of the course structure and content can be found [here](Course%20Overview.md)
