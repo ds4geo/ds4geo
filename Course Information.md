@@ -16,9 +16,9 @@ Each session builds heavily on previous ones, so all classes must be attended. I
 All assessment is based on coursework comprising two components:
 * Homework assignments in weeks 1,2,3,4 and 5 comprising 5 of the total grade each, together comprising 25% of the total.
  * These assignments are required for class discussions and continuing the in-class work. Therefore, only 1 (weeks 1 and 2) or 2 (weeks 3,4 and 5) weeks are given to complete them.
-* A larger project assigned mid-way through the course and due in X, comprising 75% of the total
+* A larger project assigned mid-way through the course and due 12th Jan 2021 at 23:59, comprising 75% of the total
 * All assignments except the week 1 assignment one are to be submitted as Jupyter Notebooks
-* **Submitted how? OLAT?**
+* All assignments are to be submitted using GitHub. See details [here](../Github%20Assignment%20Readme.md)
 
 # Out-of-class work expectations
 The homework assignments are expected to take 1-2 hours in the weeks they are assigned.
