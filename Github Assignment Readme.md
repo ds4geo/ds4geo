@@ -12,4 +12,6 @@ For the main project, you should set up your own github repository which will it
 
 
 # How to submit assignments
+*Explain how to make a .md file from scratch, then update it online with commits*
 
+*Explain how to create new notebook on colab, and then save it to the private assignments repo.*
