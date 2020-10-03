@@ -1,3 +1,14 @@
+# The Course
+This GitHub repository contains all of the learning material for the Introduction to Data Science for Geologists (DS4GEO) course. The course is running for the first time in Winter Semester 2020 and is taught by Dr Samuel Barrett (samuel.barrett(at)uibk.ac.at).
+
+The course is a mix of short lectures, practical workshops and discussion. It will take place on Wednesday afternoons at 15:30 until ca. 17:45, between 07/10/2020 and 9/12/2020 inclusive (10 sessions) in the Geology Institute Schausammlung. Bring a laptop!
+
+Full details about the course, structure, assessment, etc. are here: https://github.com/ds4geo/ds4geo/blob/master/Course%20Information.md
+
+Full list of sessions and course content can be seen here: https://github.com/ds4geo/ds4geo/blob/master/Course%20Overview.md
+
+
+
 # COVID-19
 This course is indended to be highly interactive, involving numerous class discussions and interactive workshops. It is therefore in priciple allowed to take place in-person on campus despite the current COVID-19 situation (as of 29.9.20).
 
@@ -6,12 +17,6 @@ The situation is constantly changing, so please check for updates here and from 
 The course will comply with the University COVID-19 regulations. As 29.9.20, this means maintaining social distancing at all times and wearing a mask in public areas and in the lecture room during the lecture. In the case of COVID symptoms, please follow the university proceedures listed at the above link.
 
 If any course participant has any concerns about attending or about the regulations in class, please contact me as soon as possible (samuel.barrett(at)uibk.ac.at).
-
-# The Course
-The Introduction to Data Science for Geoscientists course is a mix of short lectures, practical workshops and discussion. It will take place on Wednesday afternoons at 15:30 until ca. 17:45, between 07/10/2020 and 9/12/2020 inclusive (10 sessions) in the Geology Institute Schausammlung. Bring a laptop!
-
-Full details about the course, structure, assessment, etc. are here: https://github.com/ds4geo/ds4geo/blob/master/Course%20Information.md
-Full list of sessions and course content can be seen here: https://github.com/ds4geo/ds4geo/blob/master/Course%20Overview.md
 
 
 
