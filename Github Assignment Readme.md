@@ -41,6 +41,7 @@ Click the green "Commit" button to save.
 Most assignments will require you to submit a Jupyter Notebook by saving it to a GitHub Repository. You can do this as follows:
 
 1. Go to Google Drive (and log in), click "New", "More", "Google Colaboratory":
+
 ![create new colab doc](https://i2.wp.com/contentsimplicity.com/wp-content/uploads/2019/03/369ef-d0a1d-1sjfggypnyhpafndbna7edg.png?w=1080)
 
 2. You will now have an empty Jupyter Notebook. You can then rename it and add content. It will automatically be saved to your Google Drive.
