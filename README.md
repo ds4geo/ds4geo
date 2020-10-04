@@ -18,8 +18,9 @@ https://www.uibk.ac.at/fakultaeten-servicestelle/praesenzpruefungen.html.de
 In particular:
 * Maintain 2 meter social distancing
 * Wear mouth and nose protection in all University Buildings
-* At my request, please also wear mouth and nose protection during class, even when seated.
 * Do not attend class if you have symptoms! In case of symptoms, please follow the proceedures at the above link.
+In addition:
+* At my request, please also wear mouth and nose protection during class, even when seated.
 
 If any course participant has any concerns about attending or about the regulations in class, please contact me as soon as possible (samuel.barrett(at)uibk.ac.at).
 
