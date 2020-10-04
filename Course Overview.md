@@ -48,7 +48,7 @@
 
 **Key libraries:** Scipy, Numpy
 
-**Geoscience topics/datasets used:** Spanagel?
+**Geoscience topics/datasets used:** TBD
 
 **Assignment:** Start of main project
 
@@ -57,25 +57,25 @@
 
 **Key libraries:** Sklearn
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** TBD
 
 **Assignment:** Main project
 
 # Session 8
 **Topics covered:** Supervised Machine Learning
 
-**Key libraries:**
+**Key libraries:** Sklearn
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** TBD
 
 **Assignment:** Main project
 
 # Session 9
 **Topics covered:** Deep learning
 
-**Key libraries:**
+**Key libraries:** Sklearn, Keras/Tensorflow
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** TBD
 
 **Assignment:** Main project
 
@@ -84,7 +84,7 @@
 
 **Key libraries:**
 
-**Geoscience topics/datasets used:**
+**Geoscience topics/datasets used:** TBD
 
 **Assignment:** Main project
 
