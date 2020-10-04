@@ -10,14 +10,20 @@ Full list of sessions and course content can be seen here: https://github.com/ds
 
 
 # COVID-19
-This course is indended to be highly interactive, involving numerous class discussions and interactive workshops. It is therefore in priciple allowed to take place in-person on campus despite the current COVID-19 situation (as of 29.9.20).
+This course is indended to be highly interactive, involving numerous class discussions and interactive workshops. It is therefore allowed to take place in-person on campus despite the current COVID-19 situation (as of 04.10.20).
 
-The situation is constantly changing, so please check for updates here and from the university website: https://www.uibk.ac.at/arbeitssicherheit/covid-19/
+Please closely follow the latest guidelines here:
+https://www.uibk.ac.at/fakultaeten-servicestelle/praesenzpruefungen.html.de
 
-The course will comply with the University COVID-19 regulations. As 29.9.20, this means maintaining social distancing at all times and wearing a mask in public areas and in the lecture room during the lecture. In the case of COVID symptoms, please follow the university proceedures listed at the above link.
+In particular:
+* Maintain 2 meter social distancing
+* Wear mouth and nose protection in all University Buildings
+* At my request, please also wear mouth and nose protection during class, even when seated.
+* Do not attend class if you have symptoms! In case of symptoms, please follow the proceedures at the above link.
 
 If any course participant has any concerns about attending or about the regulations in class, please contact me as soon as possible (samuel.barrett(at)uibk.ac.at).
 
+In order to maintain social distancing during the workshops (which require interaction amongst students and with the lecturer), we will use the UIBK video conferencing system to allow screensharing and flexible group collaboration. A link will be shared with course participants by email.
 
 
 
