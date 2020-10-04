@@ -25,7 +25,7 @@ In addition:
 
 If any course participant has any concerns about attending or about the regulations in class, please contact me as soon as possible (samuel.barrett(at)uibk.ac.at).
 
-In order to maintain social distancing during the workshops (which require interaction amongst students and with the lecturer), we will use the UIBK video conferencing system to allow screensharing and flexible group collaboration. A link will be shared with course participants by email.
+In order to maintain social distancing during the workshops (which require interaction amongst students and with the lecturer), we will use the UIBK video conferencing system to allow screensharing and flexible group collaboration. A link will be shared with course participants by email. If any student cannot attend class due to illness (please contact me if this is the case), or if the entire class needs to be taught remotely, the same system (and link) will be used.
 
 
 
