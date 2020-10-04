@@ -14,12 +14,29 @@ For the main project, you should set up your own github repository which will it
 # How to submit assignments
 ## Creating files (not notebooks!) directly in GitHub
 You can create text files directly in GitHub as follows:
-![test](/res/Create file.png)
+![Create file](https://github.com/ds4geo/ds4geo/blob/master/res/Create_file.png)
 
 Files with a .md extension are "markdown" files. Markdown is a simple text formatting system which is also used for text cells in Jupyter Notebooks. For more information see here:
 https://guides.github.com/features/mastering-markdown/
 
+You can also edit existing .md or text files by clicking the pencil (edit file) button:
+![Edit file](https://docs.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-*Explain how to make a .md file from scratch, then update it online with commits*
+When done creating or editing, commit the changes (see below).
 
-*Explain how to create new notebook on colab, and then save it to the private assignments repo.*
+## Uploading files into GitHub
+Uploading works like creating new files. Click "Add file" then "Upload files", follow the instructions and commit the new files (see below).
+
+## Commiting (saving) files in GitHub
+Saving files or edits in GitHub is called "commiting". When creating, uploading or editing a file, at the bottom is the commit dialog:
+![Commit file](https://github.com/ds4geo/ds4geo/blob/master/res/commit_file.png)
+In the top text box you should write a short message describing the edit.
+In the second box you can optionally include a longer description.
+Leave the box "Commit directly to master branch" selected (we will cover what this means later in the course)
+Click the green "Commit" button to save.
+
+
+## Creating Jupyter Notebooks in Colab and saving them to a GitHub Repository
+Most assignments will require you to submit a Jupyter Notebook by saving it to a GitHub Repository. You can do this as follows:
+
+1. Go to Google Drive (and log in), and 
