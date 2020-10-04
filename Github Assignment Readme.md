@@ -49,7 +49,9 @@ Most assignments will require you to submit a Jupyter Notebook by saving it to a
 3. When you are ready to save it to GitHub, click "File", "Save a copy in GitHub. You will then be asked to log in to your GitHub account if you are not already.
 
 4. You will then see this dialog:
+
 ![new colab doc](https://github.com/ds4geo/ds4geo/blob/master/res/copy_to_github.png)
+
 * You can then select the repository (e.g. ds4geo_ws2020 for submitting an assignment).
 * Ignore the "Branch" selection.
 ( Enter the file path and file name. For example, for submitting the week 2 assignment, you would put (with your own name):
