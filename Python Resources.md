@@ -26,3 +26,6 @@ https://pydeck.gl/index.html
 ## Plotting/Visualisation
 
 
+# Relevant notebooks
+Intro to Python Geospatial/geopandas:
+https://colab.research.google.com/github/rrcarlson/Intro_python_geo/blob/master/Intro_Python_geospatial.ipynb
