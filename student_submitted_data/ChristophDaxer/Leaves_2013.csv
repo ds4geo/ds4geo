@@ -1,0 +1,301 @@
+Date,Tree Type,Location,Circumference [cm],Hight [cm],Hight_Classes,Leaf Length [mm],Leaf Width [mm],Leaf-Stalk Length [mm],Weight [g],Colour,Leaf Form,Feeding Traces,Finding Place
+"Tuesday, October 15, 2013",Oak,Forest,3.00,<200,A,90.00,80.00,5.00,3.00,yellow,other,no,on the tree
+"Monday, October 21, 2013",Maple,Forest Edge,10.00,200-299,B,60.00,60.00,70.00,2.00,green,other,no,under the tree
+"Tuesday, October 15, 2013",Hazelnut,City,10.00,<200,A,83.00,60.00,18.00,5.00,brown,rounded,yes,under the tree
+"Tuesday, October 15, 2013",Shrub,City,10.00,<200,A,40.00,200.00,50.00,2.00,green,rounded,no,on the tree
+"Tuesday, October 15, 2013",Shrub,City,10.00,<200,A,70.00,250.00,100.00,3.00,green,rounded,no,on the tree
+"Tuesday, October 15, 2013",Shrub,City,10.00,<200,A,40.00,250.00,100.00,2.00,green,rounded,no,on the tree
+"Monday, October 14, 2013",Hazelnut,Forest Edge,15.00,<200,A,85.00,65.00,20.00,6.00,yellow,rounded,no,on the tree
+"Sunday, October 20, 2013",Rowan,Forest Edge,15.00,<200,A,50.00,10.00,10.00,0.30,green,other,no,on the tree
+"Thursday, October 10, 2013",Wild Wine,Suburbs,15.00,>500,D,140.00,170.00,50.00,7.00,green,other,yes,on the tree
+"Thursday, October 17, 2013",Sorbet,Suburbs,16.00,200 - 299,B,100.00,42.00,10.00,0.50,green,other,no,on the tree
+"Thursday, October 17, 2013",Sorbet,Suburbs,16.00,200 - 299,B,95.00,34.00,5.00,0.50,green,other,no,on the tree
+"Monday, October 21, 2013",Elm,Forest Edge,16.00,300-500,C,40.00,30.00,7.00,2.00,green,rounded,yes,on the tree
+"Monday, October 14, 2013",Pear,Suburbs,18.50,300 - 500,C,45.00,38.00,17.00,0.50,green,rounded,no,on the tree
+"Tuesday, October 15, 2013",Beech,City,20.00,<200,A,75.00,450.00,100.00,4.00,brown,rounded,no,under the tree
+"Tuesday, October 15, 2013",Beech,City,20.00,<200,A,70.00,500.00,100.00,5.00,yellow,rounded,no,on the tree
+"Tuesday, October 15, 2013",Beech,City,20.00,<200,A,70.00,450.00,100.00,4.00,brown,rounded,no,under the tree
+"Friday, October 11, 2013",Ash,Forest Edge,20.00,<200,A,40.00,20.00,80.00,1.00,brown,digitate,yes,under the tree
+"Sunday, October 20, 2013",Dogrose,Suburbs,20.00,<200,A,40.00,30.00,10.00,0.20,green,other,no,on the tree
+"Monday, October 21, 2013",Plum,Forest Edge,20.00,300-500,C,40.00,30.00,10.00,2.00,green,rounded,yes,on the tree
+"Monday, October 21, 2013",Hazelnut,Forest Edge,25.00,200-299,B,142.00,150.00,10.00,1.20,green,rounded,yes,on the tree
+"Sunday, October 20, 2013",Alder,Forest Edge,26.00,300-500,C,130.00,78.00,30.00,2.20,brown,rounded,no,on the tree
+"Sunday, October 20, 2013",Appletree,Suburbs,28.00,200-299,B,80.00,70.00,50.00,1.60,yellow,other,yes,under the tree
+"Sunday, October 13, 2013",Peach,Suburbs,28.00,300-500,C,140.00,50.00,10.00,2.00,brown,other,no,on the tree
+"Sunday, October 13, 2013",Sorb,Suburbs,28.00,200-299,B,85.00,60.00,15.00,1.00,green,pinnate,yes,on the tree
+"Sunday, October 13, 2013",Appletree,Meadow Orchard,30.00,300-500,C,80.00,50.00,20.00,1.00,yellow,other,yes,under the tree
+"Monday, October 21, 2013",Beech,Suburbs,30.00,>500,D,69.00,50.00,20.00,1.00,green,rounded,no,on the tree
+"Monday, October 14, 2013",Sorb,City,30.00,300-500,C,200.00,1.00,30.00,2.00,green,other,no,on the tree
+"Thursday, October 10, 2013",Yew,Suburbs,30.00,200-299,B,20.00,2.00,0.00,1.00,green,other,no,on the tree
+"Monday, October 14, 2013",Oak,Forest Edge,30.00,200-299,B,100.00,90.00,10.00,5.00,brown,other,yes,under the tree
+"Tuesday, October 15, 2013",Ash,Forest Edge,30.00,200-299,B,30.00,30.00,20.00,4.00,green,pinnate,no,under the tree
+"Tuesday, October 15, 2013",Weeping Birch,Forest Edge,30.00,<200,A,60.00,40.00,10.00,3.00,yellow,rounded,no,on the tree
+"Monday, October 14, 2013",Hazelnut,Forest,30.00,300-500,C,80.00,60.00,10.00,1.00,green,rounded,no,on the tree
+"Thursday, October 17, 2013",Hazelnut,Forest Edge,30.00,<200,A,68.00,57.00,12.00,2.00,yellow,rounded,yes,under the tree
+"Saturday, October 19, 2013",Chestnut,Suburbs,30.00,200-299,B,140.00,70.00,160.00,4.00,yellow,pinnate,no,on the tree
+"Sunday, October 20, 2013",Limetree,Suburbs,30.00,>500,D,50.00,53.00,48.00,0.70,green,other,no,under the tree
+"Monday, October 14, 2013",Laurel,City,30.00,300-500,C,70.00,30.00,10.00,1.00,green,other,no,on the tree
+"Friday, October 11, 2013",Rowan,Forest,30.00,<200,A,30.00,20.00,10.00,0.60,brown,pinnate,no,under the tree
+"Sunday, October 20, 2013",Limetree,Suburbs,32.00,>500,D,50.00,51.00,48.00,0.80,green,rounded,yes,under the tree
+"Sunday, October 13, 2013",Beech,Forest,32.20,300-500,C,80.00,57.00,10.00,1.50,green,other,no,on the tree
+"Thursday, October 17, 2013",Appletree,Suburbs,33.00,200 - 299,B,115.00,70.00,35.00,0.50,green,rounded,yes,on the tree
+"Sunday, October 20, 2013",Beech,Forest Edge,34.00,200 - 299,B,55.00,32.00,21.00,2.00,green,pinnate,yes,on the tree
+"Thursday, October 17, 2013",Appletree,Meadow Orchard,35.00,200-299,B,70.00,39.00,16.00,4.00,green,rounded,no,on the tree
+"Tuesday, October 22, 2013",Beech,Forest,35.00,<200,A,130.00,80.00,15.00,3.00,green,rounded,no,under the tree
+"Monday, October 14, 2013",Yew,City,35.00,300-500,C,15.00,1.00,0.00,0.20,green,other,no,on the tree
+"Saturday, October 12, 2013",Oak,Forest Edge,35.00,200-299,B,105.00,65.00,5.00,6.00,green,lobed,no,on the tree
+"Monday, October 14, 2013",Gingko,City,35.00,>500,D,30.00,60.00,30.00,0.50,green,pinnate,no,under the tree
+"Friday, October 18, 2013",Hazelnut,Meadow Orchard,35.00,200-299,B,71.00,62.00,14.00,2.10,yellow,rounded,no,under the tree
+"Monday, October 21, 2013",Chestnut,Forest Edge,35.00,200-299,B,120.00,180.00,100.00,10.00,brown,digitate,yes,under the tree
+"Monday, October 14, 2013",Maple,Suburbs,37.00,200 - 299,B,145.00,175.00,60.00,5.00,green,digitate,yes,under the tree
+"Wednesday, October 16, 2013",Oak,Botanical Garden,37.00,300-500,C,180.00,120.00,20.00,3.00,brown,other,yes,on the tree
+"Sunday, October 20, 2013",Maple,Suburbs,40.00,200-299,B,60.00,45.00,25.00,0.20,yellow,digitate,yes,under the tree
+"Monday, October 14, 2013",Birch,Forest Edge,40.00,200-299,B,50.00,30.00,10.00,2.00,green,rounded,no,on the tree
+"Thursday, October 17, 2013",Sorb,City,40.00,>500,D,200.00,90.00,30.00,1.30,yellow,pinnate,no,on the tree
+"Monday, October 21, 2013",Oak,Forest Edge,40.00,>500,D,70.00,40.00,5.00,1.00,green,other,no,on the tree
+"Sunday, October 20, 2013",Ash,Suburbs,40.00,>500,D,100.00,25.00,70.00,0.80,green,other,no,on the tree
+"Saturday, October 12, 2013",Ginkgo,City,40.00,200-299,B,17.00,36.00,10.00,1.00,green,digitate,no,on the tree
+"Thursday, October 10, 2013",Hazelnut,City,40.00,300-500,C,123.00,121.00,31.00,2.00,green,rounded,no,under the tree
+"Thursday, October 10, 2013",Elder,City,40.00,300-500,C,69.00,31.00,3.00,0.50,green,rounded,no,on the tree
+"Thursday, October 10, 2013",Elder,City,40.00,>500,D,44.00,31.00,5.00,0.50,green,rounded,yes,under the tree
+"Friday, October 18, 2013",Appletree,Meadow Orchard,41.00,200-299,B,73.00,43.00,18.00,3.70,green,rounded,no,on the tree
+"Monday, October 21, 2013",Maple,Suburbs,42.00,300-500,C,80.00,91.00,53.00,2.00,brown,digitate,yes,on the tree
+"Sunday, October 13, 2013",Fig,Meadow Orchard,42.00,200-299,B,150.00,120.00,60.00,5.00,green,other,no,on the tree
+"Thursday, October 17, 2013",Elder,Meadow Orchard,42.00,200-299,B,73.00,56.00,34.00,3.40,green,pinnate,yes,on the tree
+"Friday, October 11, 2013",Birch,City,45.00,<200,A,15.00,15.00,5.00,1.00,yellow,rounded,no,under the tree
+"Saturday, October 12, 2013",Ginkgo,City,45.00,200-299,B,15.00,35.00,10.00,1.50,green,digitate,no,under the tree
+"Saturday, October 19, 2013",Plum,Meadow Orchard,45.00,<200,A,55.00,35.00,10.00,1.50,guen,pinnate,no,under the tree
+"Sunday, October 13, 2013",Maple,Forest Edge,48.00,>500,D,160.00,17.80,148.00,5.00,green,other,no,on the tree
+"Friday, October 18, 2013",Elder,Meadow Orchard,48.00,200-299,B,78.00,61.00,36.00,3.00,green,pinnate,yes,on the tree
+"Sunday, October 13, 2013",Rowan,Forest Edge,49.20,>500,D,310.00,246.00,89.00,9.00,green,pinnate,yes,under the tree
+"Tuesday, October 15, 2013",Maple,Forest Edge,50.00,300-500,C,130.00,150.00,30.00,7.00,brown,other,yes,under the tree
+"Friday, October 11, 2013",Birch,Forest Edge,50.00,300-500,C,30.00,20.00,10.00,0.20,yellow,rounded,yes,under the tree
+"Tuesday, October 22, 2013",Birch,City,50.00,300-500,C,60.00,50.00,10.00,2.00,green,rounded,yes,on the tree
+"Saturday, October 19, 2013",Beech,Forest Edge,50.00,300-500,C,70.00,60.00,35.00,2.50,brown,rounded,yes,on the tree
+"Friday, October 11, 2013",Beech,Suburbs,50.00,200-500,C,65.00,25.00,4.00,2.00,green,rounded,no,on the tree
+"Friday, October 11, 2013",Beech,Forest,50.00,200-299,B,60.00,40.00,15.00,2.00,yellow,rounded,no,on the tree
+"Monday, October 21, 2013",Ash,Forest Edge,50.00,>500,D,100.00,50.00,30.00,5.00,brown,pinnate,no,under the tree
+"Friday, October 11, 2013",Spruce,Forest Edge,50.00,200-299,B,10.00,2.00,30.00,0.50,green,other,no,on the tree
+"Friday, October 11, 2013",Spruce,Forest Edge,50.00,300-500,D,50.00,25.00,5.00,2.00,yellow,rounded,no,under the tree
+"Thursday, October 10, 2013",Chestnut,City,50.00,>500,D,450.00,92.00,24.00,0.30,green,digitate,yes,under the tree
+"Thursday, October 10, 2013",Chestnut,City,50.00,>500,D,12.20,133.00,50.00,0.80,yellow,digitate,yes,on the tree
+"Monday, October 21, 2013",Limetree,Forest Edge,50.00,>500,D,60.00,60.00,25.00,2.00,yellow,other,no,on the tree
+"Tuesday, October 22, 2013",Robinia,Forest,50.00,300-500,C,300.00,70.00,30.00,8.00,brown,digitate,yes,under the tree
+"Monday, October 14, 2013",Fir,Forest,50.00,>500,D,30.00,100.00,0.00,0.20,green,other,no,on the tree
+"Thursday, October 17, 2013",Birch,Forest,52.00,200-299,B,57.00,37.00,19.00,1.20,yellow,rounded,no,under the tree
+"Sunday, October 13, 2013",Birch,Suburbs,52.00,>500,D,55.00,65.00,30.00,1.00,green,digitate,no,under the tree
+"Saturday, October 19, 2013",Appletree,Meadow Orchard,55.00,<200,A,95.00,35.00,40.00,2.00,yellow,pinnate,yes,under the tree
+"Tuesday, October 22, 2013",Oak,Forest,55.00,200-299,B,80.00,60.00,15.00,3.00,brown,other,no,under the tree
+"Saturday, October 12, 2013",Walnut,City,55.00,300-500,C,290.00,245.00,98.00,2.50,green,pinnate,no,on the tree
+"Friday, October 18, 2013",Birch,Forest,57.00,300-500,C,59.00,41.00,21.00,1.50,yellow,rounded,yes,on the tree
+"Monday, October 21, 2013",Oak,Suburbs,58.00,>500,D,120.00,50.00,9.00,1.70,green,digitate,no,on the tree
+"Saturday, October 12, 2013",Hazelnut,Forest Edge,58.00,300-500,C,80.00,65.00,10.00,3.00,green,rounded,no,on the tree
+"Thursday, October 17, 2013",Sorb,Forest Edge,59.00,>500,D,170.00,113.00,45.00,2.00,green,pinnate,no,on the tree
+"Friday, October 11, 2013",Maple,Suburbs,60.00,300-500,C,90.00,80.00,30.00,0.80,yellow,other,yes,under the tree
+"Saturday, October 12, 2013",Birch,City,60.00,300-500,C,27.00,28.00,8.00,0.50,yellow,rounded,no,under the tree
+"Sunday, October 20, 2013",Beech,Suburbs,60.00,<200,A,100.00,50.00,5.00,1.00,green,other,yes,on the tree
+"Sunday, October 20, 2013",Beech,Forest Edge,60.00,300-500,C,160.00,130.00,150.00,1.20,yellow,other,yes,under the tree
+"Saturday, October 12, 2013",Ash,City,60.00,>500,D,157.00,117.00,33.00,1.00,green,pinnate,yes,on the tree
+"Sunday, October 13, 2013",Poplar,City,60.00,300-500,C,60.00,60.00,60.00,1.00,yellow,rounded,no,on the tree
+"Tuesday, October 15, 2013",Chestnut,City,60.00,>500,D,95.00,750.00,350.00,7.00,brown,compound,no,under the tree
+"Tuesday, October 15, 2013",Chestnut,City,60.00,>500,D,95.00,800.00,400.00,8.00,brown,compound,no,under the tree
+"Tuesday, October 15, 2013",Chestnut,City,60.00,>500,D,100.00,850.00,400.00,9.00,brown,compound,no,under the tree
+"Tuesday, October 15, 2013",Chestnut,City,60.00,>500,D,90.00,800.00,350.00,8.00,brown,compound,no,under the tree
+"Friday, October 11, 2013",Limetree,Forest Edge,60.00,200-299,B,40.00,50.00,30.00,0.60,green,rounded,no,on the tree
+"Friday, October 11, 2013",Willow,Suburbs,60.00,300-500,C,50.00,5.00,10.00,0.20,green,other,no,on the tree
+"Thursday, October 17, 2013",Maple,Forest,62.00,300-500,C,143.00,168.00,185.00,8.00,brown,digitate,no,under the tree
+"Sunday, October 20, 2013",Maple,City,62.00,300 - 500,C,143.00,152.00,61.00,5.00,yellow,dreizŠhlig,no,on the tree
+"Monday, October 14, 2013",Birch,Suburbs,64.00,> 500,D,70.00,55.00,25.00,0.50,yellow,other,no,under the tree
+"Monday, October 14, 2013",Birch,Suburbs,64.00,D,D,57.00,40.00,23.00,0.50,yellow,other,no,under the tree
+"Saturday, October 19, 2013",Maple,City,65.00,200-299,B,110.00,130.00,120.00,2.00,yellow,other,no,under the tree
+"Saturday, October 12, 2013",Spruce,Forest Edge,65.00,300-500,C,12.00,20.00,12.00,1.00,green,other,yes,on the tree
+"Saturday, October 12, 2013",Ginkgo,City,65.00,300-500,C,45.00,75.00,58.00,1.00,green,other,no,on the tree
+"Sunday, October 13, 2013",Rowan,Meadow Orchard,66.20,>500,D,28.50,220.00,71.00,12.00,green,pinnate,yes,under the tree
+"Wednesday, October 16, 2013",Spruce,Forest,67.00,> 500,D,20.00,2.00,0.00,0.50,green,other,yes,on the tree
+"Sunday, October 20, 2013",Maple,Suburbs,70.00,300-500,C,75.00,110.00,70.00,0.50,yellow,digitate,no,under the tree
+"Thursday, October 10, 2013",Birch,City,70.00,>500,D,91.00,71.00,46.00,0.90,yellow,other,yes,under the tree
+"Saturday, October 12, 2013",Beech,City,70.00,>500,D,37.00,30.00,30.00,2.00,yellow,rounded,no,on the tree
+"Saturday, October 12, 2013",Beech,City,70.00,>500,D,52.00,30.00,11.00,2.00,yellow,rounded,no,under the tree
+"Wednesday, October 16, 2013",Sorb,Forest Edge,70.00,300 - 500,C,130.00,100.00,35.00,2.00,green,pinnate,no,on the tree
+"Sunday, October 20, 2013",Oak,Suburbs,70.00,200-299,B,80.00,110.00,90.00,1.00,yellow,other,no,under the tree
+"Saturday, October 19, 2013",Alder,Suburbs,70.00,300-500,C,55.00,30.00,10.00,2.00,brown,rounded,no,under the tree
+"Wednesday, October 16, 2013",Ginkgo,City,70.00,200-500,B,60.00,50.00,40.00,2.00,green,other,no,on the tree
+"Monday, October 14, 2013",Plane,Suburbs,70.00,300 - 500,C,127.00,115.00,30.00,2.00,yellow,pinnate,no,under the tree
+"Monday, October 21, 2013",Willow,Forest Edge,70.00,>500,D,30.00,20.00,10.00,1.00,yellow,rounded,no,under the tree
+"Tuesday, October 15, 2013",Limetree,Suburbs,70.00,>500,D,53.00,47.00,17.00,0.60,yellow,heart-shaped,yes,under the tree
+"Saturday, October 12, 2013",Birch,Meadow Orchard,71.00,>500,D,60.00,45.00,25.00,6.00,yellow,rounded,no,on the tree
+"Friday, October 18, 2013",Birch,Forest,74.00,300-500,C,80.00,55.00,2.00,2.00,green,other,no,on the tree
+"Friday, October 11, 2013",Maple,City,75.00,300-500,D,30.00,2.00,20.00,1.00,green,other,yes,on the tree
+"Saturday, October 12, 2013",Birch,City,75.00,>500,D,54.00,46.00,17.00,1.00,green,rounded,yes,under the tree
+"Wednesday, October 16, 2013",Cornel,Botanical Garden,75.00,300-500,C,85.00,52.00,11.00,0.50,yellow,rounded,yes,under the tree
+"Saturday, October 12, 2013",Beech,City,75.00,>500,D,45.00,30.00,7.00,1.00,green,rounded,no,on the tree
+"Tuesday, October 15, 2013",Limetree,City,75.00,300-500,C,125.00,111.00,30.00,2.00,green,rounded,no,on the tree
+"Wednesday, October 16, 2013",Birch,Forest Edge,77.00,300-500,C,45.00,50.00,2.00,1.00,green,other,yes,on the tree
+"Friday, October 18, 2013",Ash,Forest Edge,78.00,300-500,C,150.00,73.00,35.00,7.00,green,pinnate,no,on the tree
+"Saturday, October 12, 2013",Walnut,Forest Edge,78.00,>500,D,120.00,70.00,25.00,9.00,green,pinnate,yes,on the tree
+"Monday, October 21, 2013",Birch,Suburbs,80.00,>500,D,80.00,60.00,20.00,0.40,green,rounded,no,under the tree
+"Monday, October 21, 2013",Birch,Suburbs,80.00,>500,D,86.00,62.00,27.00,0.40,green,rounded,no,under the tree
+"Saturday, October 19, 2013",Birch,Meadow Orchard,80.00,300-500,C,65.00,55.00,25.00,1.50,bran,rounded,yes,under the tree
+"Monday, October 21, 2013",Beech,Forest Edge,80.00,>500,D,50.00,35.00,5.00,1.00,green,rounded,no,on the tree
+"Friday, October 11, 2013",Beech,Forest,80.00,200-299,B,50.00,30.00,20.00,0.50,brown,rounded,no,on the tree
+"Sunday, October 20, 2013",Beech,Suburbs,80.00,300-500,C,100.00,120.00,45.00,0.60,yellow,other,no,under the tree
+"Friday, October 11, 2013",Oak,Forest Edge,80.00,>500,E,45.00,30.00,8.00,1.00,green,rounded,yes,under the tree
+"Friday, October 11, 2013",Oak,Suburbs,80.00,300-500,C,60.00,40.00,20.00,0.80,green,other,yes,on the tree
+"Tuesday, October 15, 2013",Raspberry,Forest Edge,80.00,<200,A,80.00,50.00,15.00,3.00,green,rounded,yes,on the tree
+"Wednesday, October 16, 2013",Larch,Forest,80.00,300-500,C,20.00,1.00,0.00,0.50,green,other,no,on the tree
+"Monday, October 14, 2013",Poplar,City,80.00,>500,D,30.00,30.00,30.00,0.50,green,other,no,on the tree
+"Friday, October 18, 2013",Acacia,Suburbs,80.00,300 - 500,C,170.00,115.00,18.00,2.00,green,pinnate,yes,on the tree
+"Wednesday, October 16, 2013",Horse Chestnut,Suburbs,80.00,200-500,B,150.00,170.00,150.00,4.00,brown,digitate,no,under the tree
+"Saturday, October 12, 2013",Ahorn,City,80.00,>500,D,127.00,130.00,50.00,2.00,green,pinnate,no,on the tree
+"Friday, October 11, 2013",Birch,Suburbs,81.00,>500,C,79.00,46.00,30.00,2.00,yellow,other,yes,under the tree
+"Thursday, October 17, 2013",Ash,Forest Edge,81.00,300-500,C,152.00,76.00,37.00,8.20,green,pinnate,yes,on the tree
+"Sunday, October 20, 2013",Chestnut,Forest Edge,82.00,>500,D,150.00,80.00,30.00,1.20,green,other,no,under the tree
+"Wednesday, October 16, 2013",Birch,Forest,85.00,300-500,C,50.00,40.00,2.50,1.00,green,other,no,on the tree
+"Thursday, October 10, 2013",Appletree,Suburbs,87.00,300-500,C,75.00,50.00,25.00,5.00,green,other,no,on the tree
+"Thursday, October 17, 2013",Birch,City,89.00,>500,D,58.00,48.00,31.00,1.00,yellow,rounded,no,under the tree
+"Tuesday, October 22, 2013",Maple,City,90.00,>500,D,200.00,200.00,30.00,6.00,green,other,no,under the tree
+"Monday, October 21, 2013",Birch,Forest Edge,90.00,>500,D,30.00,20.00,10.00,0.50,yellow,other,no,on the tree
+"Wednesday, October 16, 2013",Kentucky Coffeetree,Botanical Garden,90.00,300-500,C,460.00,300.00,180.00,30.00,brown,pinnate,no,under the tree
+"Friday, October 18, 2013",Larch,Forest,90.00,>500,D,20.00,10.00,0.00,0.50,green,other,no,on the tree
+"Sunday, October 13, 2013",Robinia,Forest Edge,90.00,>500,D,250.00,140.00,45.00,4.00,green,other,yes,under the tree
+"Sunday, October 13, 2013",Alder,Forest,90.00,>500,D,80.00,85.00,40.00,2.00,green,other,no,under the tree
+"Saturday, October 12, 2013",Maple,City,90.00,>500,D,90.00,95.00,65.00,1.00,red,pinnate,no,under the tree
+"Saturday, October 12, 2013",Oak,City,90.00,>500,D,85.00,62.00,9.00,1.00,yellow,pinnate,yes,on the tree
+"Wednesday, October 16, 2013",Bird Cherry,Botanical Garden,90.00,300-500,C,56.00,28.00,17.00,0.50,green,rounded,yes,on the tree
+"Thursday, October 10, 2013",Birch,Suburbs,91.00,>500,D,70.00,45.00,23.00,3.00,green,other,no,on the tree
+"Saturday, October 12, 2013",Oak,City,92.00,> 500,D,155.00,135.00,50.00,5.00,brown,pinnate,no,under the tree
+"Saturday, October 12, 2013",Maple,Forest Edge,94.00,>500,D,70.00,85.00,60.00,4.00,yellow,other,no,on the tree
+"Tuesday, October 15, 2013",Oak,City,94.00,>500,D,185.00,112.00,7.00,2.00,yellow,other,yes,on the tree
+"Friday, October 18, 2013",Birch,Forest,95.00,>500,D,120.00,35.00,20.00,2.00,brown,other,yes,under the tree
+"Friday, October 18, 2013",Oak,Forest,95.00,>500,D,85.00,55.00,30.00,2.00,brown,other,yes,under the tree
+"Saturday, October 12, 2013",Willow,Meadow Orchard,95.00,>500,D,90.00,25.00,5.00,2.00,green,lanceolate,no,on the tree
+"Saturday, October 12, 2013",Birch,City,98.00,> 500,D,45.00,30.00,20.00,1.00,yellow,rounded,no,under the tree
+"Friday, October 18, 2013",Walnut,Suburbs,98.00,D,D,340.00,270.00,100.00,9.00,green,pinnate,no,on the tree
+"Friday, October 18, 2013",Walnut,Suburbs,98.00,D,D,460.00,420.00,180.00,18.00,green,pinnate,yes,on the tree
+"Thursday, October 10, 2013",Maple,Suburbs,98.50,200-299,B,120.00,150.00,110.00,3.00,green,other,no,on the tree
+"Wednesday, October 16, 2013",Maple,Suburbs,98.50,>500,C,88.00,126.00,104.00,6.00,green,digitate,no,on the tree
+"Thursday, October 10, 2013",Maple,City,100.00,>500,D,120.00,134.00,145.00,1.00,brown,other,yes,under the tree
+"Tuesday, October 22, 2013",Maple,City,100.00,>500,D,150.00,200.00,20.00,7.00,yellow,other,no,under the tree
+"Sunday, October 20, 2013",Maple,Suburbs,100.00,300-500,C,110.00,150.00,120.00,0.50,brown,digitate,no,under the tree
+"Tuesday, October 15, 2013",Birch,Forest Edge,100.00,>500,D,70.00,40.00,15.00,4.00,brown,rounded,yes,on the tree
+"Wednesday, October 16, 2013",Oak,Forest Edge,100.00,300-500,C,80.00,55.00,30.00,1.00,brown,other,no,under the tree
+"Friday, October 11, 2013",Chestnut,Suburbs,100.00,>500,D,30.00,10.00,50.00,1.00,brown,pinnate,yes,under the tree
+"Saturday, October 12, 2013",Limetree,City,100.00,>500,D,85.00,87.00,44.00,1.00,brown,rounded,no,under the tree
+"Tuesday, October 22, 2013",Poplar,City,100.00,>500,D,180.00,200.00,40.00,5.00,green,rounded,no,on the tree
+"Tuesday, October 22, 2013",Plane,City,100.00,>500,D,180.00,180.00,30.00,7.00,brown,other,no,under the tree
+"Friday, October 11, 2013",Horse Chestnut,City,100.00,>500,D,240.00,300.00,23.00,1.20,green,digitate,no,on the tree
+"Friday, October 18, 2013",Poplar,Forest Edge,100.00,>500,D,50.00,55.00,12.00,1.60,brown,rounded,no,under the tree
+"Monday, October 14, 2013",Oak,Suburbs,102.00,300 - 500,C,75.00,59.00,16.00,3.00,brown,pinnate,no,under the tree
+"Tuesday, October 22, 2013",Chestnut,Suburbs,102.00,> 500,D,182.00,221.00,84.00,6.00,yellow,digitate,no,on the tree
+"Saturday, October 12, 2013",Ash,Meadow Orchard,105.00,>500,D,150.00,125.00,150.00,15.00,green,pinnate,no,on the tree
+"Saturday, October 12, 2013",Maple,Suburbs,109.00,>500,D,55.00,60.00,31.00,2.00,yellow,digitate,no,on the tree
+"Monday, October 21, 2013",Beech,Suburbs,110.00,>500,D,94.00,58.00,13.00,0.60,yellow,rounded,yes,under the tree
+"Monday, October 21, 2013",Beech,Suburbs,110.00,>500,D,94.00,57.00,15.00,0.50,yellow,rounded,yes,under the tree
+"Monday, October 21, 2013",Beech,Suburbs,110.00,>500,D,92.00,58.00,15.00,0.60,yellow,rounded,yes,under the tree
+"Monday, October 21, 2013",Beech,Suburbs,110.00,>500,D,98.00,53.00,14.00,0.40,yellow,rounded,yes,under the tree
+"Wednesday, October 16, 2013",Horse Chestnut,Suburbs,110.00,>500,A,200.00,250.00,180.00,5.00,green,digitate,yes,on the tree
+"Thursday, October 17, 2013",Walnut,Suburbs,110.00,300-500,C,150.00,75.00,29.00,3.20,green,rounded,no,on the tree
+"Thursday, October 10, 2013",Willow,City,110.00,>500,D,71.00,23.00,10.00,0.20,yellow,other,yes,under the tree
+"Sunday, October 13, 2013",Birch,Forest Edge,117.00,>500,D,60.00,64.00,49.00,2.50,yellow,rounded,no,under the tree
+"Monday, October 21, 2013",Maple,Forest Edge,120.00,>500,D,60.00,80.00,85.00,0.70,yellow,digitate,no,on the tree
+"Monday, October 21, 2013",Maple,Forest Edge,120.00,>500,D,60.00,85.00,86.00,0.70,yellow,digitate,yes,on the tree
+"Tuesday, October 15, 2013",Maple,City,120.00,>500,D,130.00,167.00,180.00,5.00,brown,digitate,yes,under the tree
+"Monday, October 21, 2013",Maple,Forest Edge,120.00,>500,D,67.00,89.00,90.00,0.80,yellow,digitate,yes,on the tree
+"Thursday, October 10, 2013",Maple,City,120.00,>500,D,100.00,90.00,20.00,0.30,brown,other,yes,under the tree
+"Monday, October 21, 2013",Maple,Forest Edge,120.00,>500,D,65.00,86.00,80.00,0.70,yellow,digitate,no,on the tree
+"Friday, October 11, 2013",Maple,City,120.00,200-299,B,100.00,110.00,30.00,4.00,brown,digitate,no,under the tree
+"Sunday, October 20, 2013",Oak,Suburbs,120.00,300-500,C,80.00,110.00,70.00,0.40,yellow,other,no,under the tree
+"Wednesday, October 16, 2013",Alder,Botanical Garden,120.00,>500,D,87.00,54.00,22.00,1.50,green,rounded,yes,on the tree
+"Wednesday, October 16, 2013",Birch,Botanical Garden,120.00,>500,D,95.00,66.00,35.00,0.50,yellow,other,no,under the tree
+"Tuesday, October 22, 2013",Chestnut,City,120.00,>500,D,280.00,260.00,60.00,10.00,brown,digitate,no,under the tree
+"Thursday, October 17, 2013",Limetree,Suburbs,120.00,>500,D,94.00,57.00,30.00,3.00,brown,other,yes,under the tree
+"Sunday, October 13, 2013",Horse Chestnut,Forest,120.00,>500,D,210.00,190.00,80.00,4.00,brown,other,yes,on the tree
+"Tuesday, October 22, 2013",Oak,Suburbs,121.00,> 500,D,130.00,92.00,49.00,4.00,brown,pinnate,no,under the tree
+"Saturday, October 12, 2013",Oak,Forest Edge,122.00,>500,D,120.00,55.00,7.00,4.00,brown,lobed,yes,under the tree
+"Friday, October 18, 2013",Limetree,Suburbs,123.00,>500,D,96.00,60.00,35.00,2.70,yellow,other,yes,under the tree
+"Wednesday, October 16, 2013",Pine,Suburbs,123.20,>500,C,150.00,2.00,0.00,7.00,green,other,yes,on the tree
+"Thursday, October 10, 2013",Pine,Suburbs,123.50,>500,D,150.00,1.00,0.00,3.00,green,other,no,on the tree
+"Saturday, October 12, 2013",Maple,Forest Edge,125.00,300-500,C,182.00,134.00,123.00,5.00,brown,other,yes,under the tree
+"Wednesday, October 16, 2013",Beech,Suburbs,126.00,>500,C,88.00,60.00,12.00,4.00,green,rounded,yes,on the tree
+"Friday, October 18, 2013",Walnut,Meadow Orchard,127.00,>500,D,162.00,81.00,32.00,3.70,yellow,rounded,yes,under the tree
+"Wednesday, October 16, 2013",Maple,Forest Edge,130.00,> 500,D,150.00,220.00,130.00,5.00,yellow,digitate,no,on the tree
+"Thursday, October 10, 2013",Maple,City,130.00,>500,D,65.00,52.00,15.00,0.20,brown,other,yes,under the tree
+"Saturday, October 12, 2013",Horse Chestnut,City,130.00,>500,D,144.00,210.00,100.00,2.00,green,digitate,no,under the tree
+"Wednesday, October 16, 2013",Birch,Botanical Garden,130.00,>500,D,62.00,48.00,22.00,1.40,green,other,yes,on the tree
+"Friday, October 18, 2013",Limetree,City,130.00,>500,D,85.00,30.00,50.00,2.00,yellow,other,no,under the tree
+"Thursday, October 17, 2013",Horse Chestnut,City,135.00,300-500,C,170.00,151.00,39.00,10.00,yellow,digitate,no,on the tree
+"Sunday, October 13, 2013",Limetree,Forest Edge,138.00,>500,D,80.00,79.00,33.00,1.00,green,rounded,yes,under the tree
+"Wednesday, October 16, 2013",Appletree,Meadow Orchard,140.00,>500,C,10.00,83.00,42.00,8.00,green,rounded,no,under the tree
+"Saturday, October 12, 2013",Walnut,Forest Edge,140.00,>500,D,75.00,50.00,40.00,7.00,yellow,pinnate,yes,under the tree
+"Thursday, October 17, 2013",Horse Chestnut,Forest Edge,141.00,>500,D,139.00,223.00,120.00,6.00,brown,digitate,yes,under the tree
+"Friday, October 18, 2013",Horse Chestnut,Forest,142.00,>500,D,173.00,148.00,41.00,9.80,green,digitate,no,on the tree
+"Sunday, October 13, 2013",Sorb,Forest Edge,142.00,>500,D,114.00,61.00,32.00,2.50,red,other,no,under the tree
+"Sunday, October 20, 2013",Oak,Forest,145.00,300-500,C,76.00,57.00,26.00,0.80,green,other,yes,on the tree
+"Sunday, October 13, 2013",Chestnut,Forest Edge,145.00,>500,D,220.00,70.00,10.00,1.00,green,other,no,under the tree
+"Monday, October 14, 2013",Maple,Forest,150.00,>500,D,150.00,150.00,100.00,1.00,green,digitate,no,on the tree
+"Wednesday, October 16, 2013",Maple,Suburbs,150.00,> 500,D,160.00,195.00,170.00,6.00,yellow,digitate,no,under the tree
+"Wednesday, October 16, 2013",Maple,Forest Edge,150.00,> 500,D,120.00,200.00,100.00,4.00,brown,pinnate,no,under the tree
+"Friday, October 11, 2013",Beech,Suburbs,150.00,300-500,D,100.00,120.00,40.00,4.00,yellow,digitate,no,on the tree
+"Monday, October 14, 2013",Beech,Suburbs,150.00,>500,D,45.00,30.00,7.00,0.50,brown,rounded,no,under the tree
+"Monday, October 14, 2013",Oak,City,150.00,>500,D,60.00,30.00,10.00,0.50,brown,digitate,no,under the tree
+"Tuesday, October 22, 2013",Limetree,Forest,150.00,>500,D,60.00,50.00,30.00,2.00,yellow,rounded,no,under the tree
+"Wednesday, October 16, 2013",Laurel,City,150.00,300-500,C,105.00,43.00,10.00,1.50,green,lanceolate,yes,on the tree
+"Friday, October 18, 2013",Walnut,Suburbs,150.00,>500,D,150.00,65.00,50.00,3.00,green,other,no,on the tree
+"Saturday, October 12, 2013",Maple,City,150.00,>500,D,73.00,95.00,30.00,0.80,green,lobed,no,on the tree
+"Saturday, October 19, 2013",Tulip Poplar,City,150.00,>500,D,32.00,52.00,15.00,1.20,yellow,lobed,no,on the tree
+"Tuesday, October 08, 2013",Oak,Suburbs,153.00,>500,C,125.00,95.00,5.00,4.00,green,other,no,on the tree
+"Thursday, October 10, 2013",Oak,Suburbs,153.00,>500,D,190.00,120.00,5.00,8.00,yellow,other,no,on the tree
+"Wednesday, October 16, 2013",Elm,Suburbs,154.00,> 500,D,130.00,75.00,20.00,4.00,brown,pinnate,no,under the tree
+"Thursday, October 10, 2013",Kirschbaum,Meadow Orchard,160.00,200-299,B,126.00,74.00,37.00,0.20,green,dentate,yes,on the tree
+"Thursday, October 10, 2013",Kirschbaum,Meadow Orchard,160.00,200-299,B,133.00,80.00,50.00,0.30,green,dentate,yes,on the tree
+"Thursday, October 10, 2013",Kirschbaum,Meadow Orchard,160.00,200-299,B,77.00,56.00,21.00,0.20,green,dentate,yes,on the tree
+"Saturday, October 12, 2013",Maple,Forest Edge,165.00,>500,D,86.00,110.00,80.00,5.00,brown,other,yes,under the tree
+"Saturday, October 19, 2013",Hazelnut,Forest,170.00,300-500,C,70.00,60.00,35.00,3.50,green,rounded,no,on the tree
+"Monday, October 14, 2013",Walnut,City,172.00,>500,D,350.00,340.00,118.00,10.00,green,pinnate,yes,on the tree
+"Friday, October 18, 2013",Maple,City,180.00,>500,D,195.00,220.00,100.00,5.00,yellow,digitate,no,on the tree
+"Saturday, October 12, 2013",Oak,Forest Edge,180.00,>500,D,19.00,40.00,18.00,2.00,brown,digitate,no,under the tree
+"Sunday, October 20, 2013",Limetree,City,181.00,> 500,D,84.00,69.00,22.00,3.00,green,other,no,on the tree
+"Sunday, October 13, 2013",Ash,Meadow Orchard,183.00,>500,D,202.00,165.00,54.00,10.00,green,pinnate,yes,under the tree
+"Thursday, October 10, 2013",Beech,Suburbs,187.00,>500,D,150.00,75.00,15.00,2.00,brown,other,yes,under the tree
+"Wednesday, October 16, 2013",Beech,Suburbs,187.00,>500,C,110.00,69.00,10.00,5.00,green,rounded,no,under the tree
+"Thursday, October 10, 2013",Beech,Suburbs,187.00,>500,D,80.00,50.00,6.00,1.00,green,other,no,on the tree
+"Tuesday, October 15, 2013",Beech,City,188.00,>500,D,105.00,75.00,16.00,4.00,brown,rounded,yes,under the tree
+"Thursday, October 17, 2013",Maple,Forest Edge,200.00,>500,D,120.00,110.00,42.00,4.60,yellow,digitate,yes,on the tree
+"Sunday, October 13, 2013",Elm,Forest Edge,200.00,300-500,C,62.00,37.00,22.00,0.60,green,elliptical,yes,on the tree
+"Thursday, October 10, 2013",Birch,City,200.00,>500,D,56.00,36.00,22.00,0.10,green,dentate,no,on the tree
+"Thursday, October 10, 2013",Birch,City,200.00,>500,D,39.00,24.82,21.00,0.10,green,dentate,yes,on the tree
+"Thursday, October 10, 2013",Birch,City,200.00,>500,D,46.00,50.00,19.00,0.10,green,dentate,yes,on the tree
+"Thursday, October 10, 2013",Birch,City,200.00,>500,D,46.00,36.00,20.00,0.10,green,dentate,no,on the tree
+"Friday, October 11, 2013",Beech,Suburbs,200.00,>500,E,100.00,30.00,10.00,3.00,brown,digitate,no,on the tree
+"Monday, October 14, 2013",Judas Tree,City,200.00,300-500,C,52.00,52.00,20.00,1.00,yellow,rounded,no,on the tree
+"Sunday, October 20, 2013",Oak,Forest Edge,200.00,>500,D,90.00,40.00,8.00,1.00,green,lobed,yes,on the tree
+"Saturday, October 12, 2013",Willow,City,200.00,>500,D,135.00,19.00,11.00,1.00,green,other,no,on the tree
+"Sunday, October 13, 2013",Oak,Forest Edge,201.00,>500,D,158.00,106.00,7.00,4.00,green,other,yes,on the tree
+"Tuesday, October 15, 2013",Willow,City,204.00,>500,D,116.00,115.00,13.00,2.00,green,other,no,on the tree
+"Friday, October 18, 2013",Maple,City,205.00,300-500,C,95.00,92.00,75.00,3.00,yellow,digitate,no,on the tree
+"Friday, October 18, 2013",Maple,Forest Edge,205.00,>500,D,150.00,220.00,70.00,5.00,yellow,digitate,no,on the tree
+"Saturday, October 19, 2013",Limetree,City,205.00,>500,D,85.00,75.00,35.00,3.00,green,rounded,no,on the tree
+"Wednesday, October 16, 2013",Horse Chestnut,Suburbs,211.00,> 500,D,120.00,40.00,100.00,5.00,green,digitate,no,on the tree
+"Friday, October 18, 2013",Maple,Forest,213.00,>500,D,123.00,117.00,47.00,4.80,green,digitate,no,on the tree
+"Friday, October 18, 2013",Horse Chestnut,Suburbs,237.00,>500,D,120.00,40.00,80.00,3.00,yellow,digitate,yes,under the tree
+"Wednesday, October 16, 2013",Pine,City,240.00,>500,A,111.00,2.00,10.00,0.80,brown,other,no,under the tree
+"Wednesday, October 16, 2013",Willow,Suburbs,240.00,>500,C,180.00,12.00,70.00,2.00,yellow,other,yes,under the tree
+"Wednesday, October 16, 2013",Tulip Poplar,Botanical Garden,240.00,>500,D,170.00,220.00,70.00,8.00,green,rounded,no,on the tree
+"Thursday, October 17, 2013",Oak,Suburbs,250.00,>500,D,110.00,56.00,26.00,4.00,green,other,no,on the tree
+"Wednesday, October 16, 2013",Common Hornbeam,Botanical Garden,260.00,>500,D,130.00,47.00,13.00,1.00,green,other,yes,on the tree
+"Sunday, October 13, 2013",Beech,Forest,261.50,>500,D,95.00,57.00,11.00,2.00,green,other,yes,on the tree
+"Thursday, October 10, 2013",Willow,Suburbs,276.00,>500,D,185.00,20.00,10.00,2.00,green,other,no,on the tree
+"Wednesday, October 16, 2013",Willow,Suburbs,276.00,>500,C,119.00,11.00,8.00,3.00,green,other,yes,under the tree
+"Friday, October 18, 2013",Oak,Suburbs,279.00,>500,D,115.00,61.00,28.00,3.80,green,other,no,on the tree
+"Wednesday, October 16, 2013",Pine,Botanical Garden,300.00,>500,D,60.00,40.00,30.00,1.50,green,other,no,on the tree
+"Saturday, October 19, 2013",Willow,City,305.00,>500,D,150.00,25.00,10.00,1.00,green,lanceolate,no,on the tree
+"Wednesday, October 16, 2013",Plane,City,310.00,>500,A,130.00,180.00,50.00,3.00,green,digitate,no,under the tree
+"Wednesday, October 16, 2013",Maple,Suburbs,350.00,>500,A,180.00,130.00,50.00,4.00,yellow,digitate,no,under the tree
+"Wednesday, October 16, 2013",Maple,Suburbs,372.00,>500,C,140.00,180.00,62.00,5.50,yellow,digitate,no,on the tree
+"Wednesday, October 16, 2013",Oak,City,375.00,>500,A,111.00,50.00,10.00,2.00,green,pinnate,yes,on the tree
+"Wednesday, October 16, 2013",Beech,City,380.00,>500,A,90.00,50.00,13.00,1.50,green,rounded,no,on the tree
+"Wednesday, October 16, 2013",Beech,City,430.00,>500,A,100.00,60.00,15.00,2.00,brown,rounded,no,under the tree
+"Thursday, October 10, 2013",Oak,Forest Edge,450.00,>500,D,77.00,55.00,3.00,0.10,brown,digitate,no,on the tree
+"Thursday, October 10, 2013",Oak,Forest Edge,450.00,>500,D,99.00,64.00,3.00,0.10,brown,digitate,no,on the tree
+"Thursday, October 10, 2013",Oak,Forest Edge,450.00,>500,D,87.00,60.00,5.00,0.10,brown,digitate,no,on the tree
+"Wednesday, October 16, 2013",Limetree,Suburbs,480.00,>500,A,111.00,120.00,30.00,3.00,green,rounded,no,on the tree

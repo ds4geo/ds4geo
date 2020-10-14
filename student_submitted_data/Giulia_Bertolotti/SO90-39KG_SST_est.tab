@@ -1,0 +1,28 @@
+/* DATA DESCRIPTION:
+Citation:	Doose-Rolinski, Heidi; Rogalla, U; Scheeder, Georg; Lückge, Andreas; von Rad, Ulrich (2001): (Figure 3) Sea surface temperature estimates of sediment core SO90-39KG from the northeastern Arabian Sea during the late Holocene. PANGAEA, https://doi.org/10.1594/PANGAEA.61822, 
+	In supplement to: Doose-Rolinski, H et al. (2001): High resolution temperature and evaporation changes during the late Holocene in the northeastern Arabian Sea. Paleoceanography, 16(4), 358-367, https://doi.org/10.1029/2000PA000511
+Coverage:	LATITUDE: 24.833000 * LONGITUDE: 65.933000
+	DATE/TIME START: 1993-09-08T00:00:00 * DATE/TIME END: 1993-09-08T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.00 m * MAXIMUM DEPTH, sediment/rock: 0.35 m
+Event(s):	SO90_39KG * LATITUDE: 24.833000 * LONGITUDE: 65.933000 * DATE/TIME: 1993-09-08T00:00:00 * ELEVATION: -695.0 m * Recovery: 0.45 m * LOCATION: Arabian Sea * CAMPAIGN: SO90 (PAKOMIN) (URI: https://doi.org/10.2312/cr_so90) * BASIS: Sonne (URI: https://en.wikipedia.org/wiki/RV_Sonne) * METHOD/DEVICE: Box corer (Reineck) (BCR) (URI: http://en.wikipedia.org/wiki/Box_corer)
+Comment:	Age scale is in calendar years from varve counting (see von Rad et al., 1999, datasets: doi:10.1594/PANGAEA.735718)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	AGE [ka BP] (Age) * GEOCODE
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Doose-Rolinski, Heidi (hdoro@freenet.de) * METHOD/DEVICE: Calculated from UK37 (Sonzogni et al., 1998) (URI: https://doi.org/10.1016/S0277-3791(97)00099-1)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	13 data points
+*/
+Depth [m]	Age [ka BP]	SST (1-12) [°C]
+0.00	0.0000	26.4
+0.01	0.0072	26.9
+0.03	0.0171	26.6
+0.05	0.0371	26.6
+0.07	0.0374	26.8
+0.09	0.0378	26.3
+0.11	0.0672	26.4
+0.13	0.0675	26.3
+0.15	0.0972	26.2
+0.29	0.1171	26.3
+0.31	0.1173	26.7
+0.33	0.1176	26.4
+0.35	0.1179	26.6

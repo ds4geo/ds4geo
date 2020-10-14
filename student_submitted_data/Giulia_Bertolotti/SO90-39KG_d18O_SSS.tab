@@ -1,0 +1,28 @@
+/* DATA DESCRIPTION:
+Citation:	Doose-Rolinski, Heidi; Rogalla, U; Scheeder, Georg; Lückge, Andreas; von Rad, Ulrich (2001): (Figure 3) Oxygen isotopes and reconstructed salinity records of sediment core SO90-39KG from the northeastern Arabian Sea during the late Holocene. PANGAEA, https://doi.org/10.1594/PANGAEA.61823, 
+	In supplement to: Doose-Rolinski, H et al. (2001): High resolution temperature and evaporation changes during the late Holocene in the northeastern Arabian Sea. Paleoceanography, 16(4), 358-367, https://doi.org/10.1029/2000PA000511
+Coverage:	LATITUDE: 24.833000 * LONGITUDE: 65.933000
+	DATE/TIME START: 1993-09-08T00:00:00 * DATE/TIME END: 1993-09-08T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.000 m * MAXIMUM DEPTH, sediment/rock: 0.350 m
+Event(s):	SO90_39KG * LATITUDE: 24.833000 * LONGITUDE: 65.933000 * DATE/TIME: 1993-09-08T00:00:00 * ELEVATION: -695.0 m * Recovery: 0.45 m * LOCATION: Arabian Sea * CAMPAIGN: SO90 (PAKOMIN) (URI: https://doi.org/10.2312/cr_so90) * BASIS: Sonne (URI: https://en.wikipedia.org/wiki/RV_Sonne) * METHOD/DEVICE: Box corer (Reineck) (BCR) (URI: http://en.wikipedia.org/wiki/Box_corer)
+Comment:	Age scale is in calendar years from varve counting (see von Rad et al., 1999, datasets: doi:10.1594/PANGAEA.735718)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	AGE [ka BP] (Age) * GEOCODE
+	Globigerinoides ruber white, δ18O [‰ PDB] (G. ruber w δ18O) * PI: Doose-Rolinski, Heidi (hdoro@freenet.de) * METHOD/DEVICE: Isotope ratio mass spectrometry (URI: https://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	δ18O [‰] (δ18O) * PI: Doose-Rolinski, Heidi (hdoro@freenet.de) * COMMENT: SST-corrected
+	Sea surface salinity (SSS) * PI: Doose-Rolinski, Heidi (hdoro@freenet.de) * METHOD/DEVICE: Calculated * COMMENT: from d18O_seawater/salinity relationship, Rostek et al., 1993, doi:10.1038/364319a0
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	33 data points
+*/
+Depth [m]	Age [ka BP]	G. ruber w δ18O [‰ PDB]	δ18O [‰]	SSS
+0.000	0.0000	-2.08	0.00	36.5
+0.010	0.0072	-2.05	0.13	37.0
+0.030	0.0171	-2.19	-0.07	36.3
+0.050	0.0371	-2.06	0.06	36.7
+0.090	0.0378	-2.18	-0.12	36.1
+0.130	0.0675	-1.91	0.15	37.0
+0.150	0.0972	-1.89	0.15	37.0
+0.290	0.1171	-1.93	0.13	37.0
+0.310	0.1173	-2.24	-0.10	36.1
+0.330	0.1176	-2.10	-0.02	36.4
+0.350	0.1179	-2.15	-0.03	36.4

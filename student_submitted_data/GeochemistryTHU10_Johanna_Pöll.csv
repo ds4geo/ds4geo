@@ -1,0 +1,59 @@
+﻿/* DATA DESCRIPTION:;;;;
+Citation:;"Bajard, Manon; Poulenard, Jérôme; Sabatier, Pierre; Develle, Anne-Lise; Jacob, Jérémy; Giguet-Covex, Charline; Crouzet, Christian; David, Fernand; Pignol, Cécile; Arnaud, Fabien (2016): Geochemistry of sediment core THU10-Mastercore of Lake La Thuile. PANGAEA, https://doi.org/10.1594/PANGAEA.867309, ";;;
+;"In supplement to: Bajard, Manon; Poulenard, Jérôme; Sabatier, Pierre; Develle, Anne-Lise; Giguet-Covex, Charline; Jacob, Jérémy; Crouzet, Christian; David, Fernand; Pignol, Cécile; Arnaud, Fabien (2017): Progressive and regressive soil evolution phases in the Anthropocene. CATENA, 150, 39-52, https://doi.org/10.1016/j.catena.2016.11.001";;;
+Coverage:;LATITUDE: 45.530000 * LONGITUDE: 6.056700;;;
+;DATE/TIME START: 2010-04-25T00:00:00 * DATE/TIME END: 2010-04-25T00:00:00;;;
+;MINIMUM DEPTH, sediment/rock: 0.100 m * MAXIMUM DEPTH, sediment/rock: 5.230 m;;;
+Event(s):;"THU10-Mastercore * LATITUDE: 45.530000 * LONGITUDE: 6.056700 * DATE/TIME: 2010-04-25T00:00:00 * ELEVATION: 874.0 m * METHOD/DEVICE: Piston corer (PC) * COMMENT: IGSN of cores: THU10-P1: hdl:10273/IEFRA00BA; THU10-I: hdl:10273/IEFRA00BB";;;
+Parameter(s):;DEPTH, sediment/rock [m] (Depth) * GEOCODE * PI: Bajard, Manon (https://orcid.org/0000-0003-4622-0482, manon.bajard@univ-smb.fr);;;
+;Potassium oxide/Titanium dioxide ratio (K2O/TiO2) * PI: Bajard, Manon (https://orcid.org/0000-0003-4622-0482, manon.bajard@univ-smb.fr) * METHOD/DEVICE: X-ray fluorescence (XRF);;;
+;Potassium oxide/Titanium dioxide ratio, error [±] (K2O/TiO2 e) * PI: Bajard, Manon (https://orcid.org/0000-0003-4622-0482, manon.bajard@univ-smb.fr) * METHOD/DEVICE: X-ray fluorescence (XRF);;;
+;Aluminium oxide/Titan dioxide (Al2O3/TiO2) * PI: Bajard, Manon (https://orcid.org/0000-0003-4622-0482, manon.bajard@univ-smb.fr) * METHOD/DEVICE: X-ray fluorescence (XRF);;;
+;Aluminium oxide/Titanium dioxide, error [±] (Al2O3/TiO2 e) * PI: Bajard, Manon (https://orcid.org/0000-0003-4622-0482, manon.bajard@univ-smb.fr) * METHOD/DEVICE: X-ray fluorescence (XRF);;;
+License:;Creative Commons Attribution 3.0 Unported (CC-BY-3.0);;;
+Size:;172 data points;;;
+*/;;;;
+Depth [m];K2O/TiO2;K2O/TiO2 e [±];Al2O3/TiO2;Al2O3/TiO2 e [±]
+0,1;2,67;0,28;9,31;1,95
+0,12;2,89;0,24;11,39;1,78
+0,34;2,8;0,16;11,89;1,26
+0,4;2,56;0,16;11,33;1,37
+0,7;2,67;0,14;13,03;1,32
+1,25;2,69;0,21;10,33;1,54
+1,29;2,63;0,19;10,11;1,42
+1,6;2,81;0,19;11,16;1,4
+1,75;2,71;0,23;10,39;1,67
+2,06;2,81;0,21;11,29;1,64
+2,44;2,88;0,16;12,91;1,35
+2,96;2,68;0,15;14,44;1,45
+3,58;2,45;0,12;13,28;1,25
+3,83;2,11;0,11;11,63;1,22
+3,97;2,18;0,11;12,97;1,33
+4;2,45;0,12;16,74;1,49
+4,12;1,74;0,09;12,07;1,29
+4,2;1,99;0,1;14,27;1,39
+4,33;1,62;0,09;11,56;1,29
+4,475;1,51;0,11;8,75;1,42
+4,49;1,53;0,09;10,39;1,33
+4,5;2,03;0,12;12,24;1,33
+4,515;2,09;0,09;14,83;1,23
+4,55;1,64;0,11;9,38;1,27
+4,59;1,67;0,11;9,17;1,26
+4,63;2,39;0,016;12,62;1,8
+4,67;2,44;0,16;14,07;1,94
+4,71;2,36;0,15;13,01;1,68
+4,75;2,17;0,13;11,08;1,47
+4,79;2,4;0,18;12,12;1,83
+4,83;2,1;0,15;10,88;1,69
+4,85;2,23;0,15;10,78;1,41
+4,87;2,38;0,14;12,95;1,46
+4,91;2,25;0,17;11;1,61
+4,95;2,51;0,18;12,19;2,02
+4,99;2,38;0,18;11,3;2,06
+5,03;2,48;0,17;11,82;1,88
+5,07;2,39;0,17;11,1;1,87
+5,105;2,55;0,18;12,19;1,91
+5,11;2,35;0,17;11,23;1,9
+5,15;2,39;0,16;11,8;1,84
+5,19;2,23;0,16;10,23;1,79
+5,23;2,2;0,15;10,08;1,66
