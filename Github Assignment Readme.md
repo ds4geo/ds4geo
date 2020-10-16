@@ -54,6 +54,7 @@ Most assignments will require you to submit a Jupyter Notebook by saving it to a
 ![new colab doc](https://github.com/ds4geo/ds4geo/blob/master/res/copy_to_github.png)
 
 * You can then select the repository (e.g. ds4geo_ws2020 for submitting an assignment).
+ * For saving to the private assignments repository, you need to check the box "include private repos"
 * Ignore the "Branch" selection.
 ( Enter the file path and file name. For example, for submitting the week 2 assignment, you would put (with your own name):
 "/Assignments/Session 2/barrett.ipynb"
