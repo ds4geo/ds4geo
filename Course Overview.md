@@ -8,7 +8,7 @@
 **Assignment:** Finding interesting datasets
 
 # Session 2 - Python Basics for Data Science
-**Topics covered:** Python lists, dicts, indexing, object orientated programming/plotting
+**Topics covered:** Python lists, dicts, indexing, object orientated programming/plotting, flow control
 
 **Key libraries:** Python core, Matplotlib
 
@@ -16,16 +16,25 @@
 
 **Assignment:** Data plotting practice
 
-# Session 3 - Numpy etc.
+# Session 3 - Pandas etc.
+**Topics covered:** Pandas indexing and  flow control
+
+**Key libraries:** Pandas, Matplotlib
+
+**Geoscience topics/datasets used:** numerous
+
+**Assignment:** Weather data story part 1
+
+# Session 4 - Numpy etc.
 **Topics covered:** (Time-series), Numpy, arrays, operations, aggregations, indexing
 
 **Key libraries:** Numpy, Pandas, Matplotlib
 
 **Geoscience topics/datasets used:** Foram LA-ICPMS (data reduction)
 
-**Assignment:** Weather data story part 1
+**Assignment:** None (self-guided practice recommended)
 
-# Session 4 - Time Series
+# Session 5 - Time Series
 **Topics covered:** (Time series) Interpolation, smoothing
 
 **Key libraries:** Scipy, Numpy, Pandas
@@ -34,7 +43,7 @@
 
 **Assignment:** Re-sampling and advanced filtering
 
-# Session 5 - Data Story Telling
+# Session 6 - Data Story Telling
 **Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
 
 **Key libraries:** Pandas, Matplotlib
@@ -43,7 +52,7 @@
 
 **Assignment:** Weather data story part 2
 
-# Session 6
+# Session 7
 **Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
 
 **Key libraries:** Scipy, Numpy
@@ -52,7 +61,7 @@
 
 **Assignment:** Start of main project
 
-# Session 7
+# Session 8
 **Topics covered:** Unsupervised Machine Learning
 
 **Key libraries:** Sklearn
@@ -61,17 +70,8 @@
 
 **Assignment:** Main project
 
-# Session 8
-**Topics covered:** Supervised Machine Learning
-
-**Key libraries:** Sklearn
-
-**Geoscience topics/datasets used:** TBD
-
-**Assignment:** Main project
-
 # Session 9
-**Topics covered:** Deep learning
+**Topics covered:** Supervised Machine Learning and Deep learning
 
 **Key libraries:** Sklearn, Keras/Tensorflow
 
