@@ -29,13 +29,13 @@ https://pydeck.gl/index.html
 # Relevant notebooks
 Many helpful excercise notebooks on basic python, numpy, pandas etc.:
 
-    https://github.com/sinkovit/PythonSeries
+*https://github.com/sinkovit/PythonSeries
 
 
 Intro to Python Geospatial/geopandas:
 
-    https://colab.research.google.com/github/rrcarlson/Intro_python_geo/blob/master/Intro_Python_geospatial.ipynb
+*https://colab.research.google.com/github/rrcarlson/Intro_python_geo/blob/master/Intro_Python_geospatial.ipynb
     
 Python for Petrophysics:
 
-    https://github.com/andymcdgeo/Petrophysics-Python-Series
+*https://github.com/andymcdgeo/Petrophysics-Python-Series
