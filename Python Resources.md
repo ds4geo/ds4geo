@@ -35,3 +35,6 @@ https://colab.research.google.com/github/rrcarlson/Intro_python_geo/blob/master/
     
 ### Python for Petrophysics:
 https://github.com/andymcdgeo/Petrophysics-Python-Series
+
+### Python youtube tutorial:
+https://www.youtube.com/watch?v=vmEHCJofslg
