@@ -1,3 +1,5 @@
+# Data Science/Python Resources
+
 Basic Python courses:
 https://www.datacamp.com/courses/intro-to-python-for-data-science
 
@@ -7,9 +9,11 @@ https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/
 Python Data Science Handbook:
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
+Earth Science Data Science:
+https://www.earthdatascience.org/
+
 
 # Useful Python Libraries
-
 
 ## Data analysis
 Numpy
@@ -24,16 +28,19 @@ Rasterio - Raster input, output, and related utilities (e.g. reprojection)
 https://pydeck.gl/index.html
 
 ## Plotting/Visualisation
+seaborn
+bokeh
+matplotlib
+plotly
 
-
-# Relevant notebooks
+# Useful notebooks
 ### Many helpful excercise notebooks on basic python, numpy, pandas etc.:
 https://github.com/sinkovit/PythonSeries
 
 ### Intro to Python Geospatial/geopandas:
 https://colab.research.google.com/github/rrcarlson/Intro_python_geo/blob/master/Intro_Python_geospatial.ipynb
     
-### Python for Petrophysics:
+### Pandas for Petrophysics:
 https://github.com/andymcdgeo/Petrophysics-Python-Series
 
 ### Python youtube tutorial:
