@@ -1,5 +1,6 @@
 # Statistics
-* Book: The Art of Statistics - David Spiegelhalter
+* Book: Statistics 101 - David Borman (https://www.amazon.com/Statistics-101-Distribution-Determining-Probability/dp/1507208170)
+* Book: The Art of Statistics - David Spiegelhalter (https://www.amazon.com/Art-Statistics-Learning-Pelican-Books/dp/0241398630)
 * Book: Statistics Done Wrong - Alex Reinhart
 * Podcast: More or Less (https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 * Podcast: Stats and Stories (https://statsandstories.net/)
