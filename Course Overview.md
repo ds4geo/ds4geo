@@ -32,59 +32,49 @@
 
 **Geoscience topics/datasets used:** Foram LA-ICPMS (data reduction)
 
-**Assignment:** None (self-guided practice recommended)
-
-# Session 5 - Time Series
+# Session 5 - Time Series Part 1
 **Topics covered:** (Time series) Interpolation, smoothing
 
 **Key libraries:** Scipy, Numpy, Pandas
 
 **Geoscience topics/datasets used:** Spanagel cave monitoring data (temperature and CO2)
 
-**Assignment:** Re-sampling and advanced filtering
+# Session 6 - Time Series Part 2
+**Topics covered:** (Time series) Smoothing and Filtering
 
-# Session 6 - Data Story Telling
-**Topics covered:** Data story telling, simple stats (through to kde), "how do I do that?" session
+**Key libraries:** Scipy, Numpy, Pandas
+
+**Geoscience topics/datasets used:** Spanagel cave monitoring data (temperature and CO2)
+
+# Session 7 - Data Exploration
+**Topics covered:** (Interactive) Data exploration, univariate statistics
 
 **Key libraries:** Pandas, Matplotlib
 
-**Geoscience topics/datasets used:** Global Lakes and Wetlands Database
+**Geoscience topics/datasets used:** HydroLakes (Global lakes database)
 
 **Assignment:** Weather data story part 2
 
-# Session 7
-**Topics covered:** Multi-variate stats, regressions, data comparisons, curve fitting
-
-**Key libraries:** Scipy, Numpy
-
-**Geoscience topics/datasets used:** TBD
-
-**Assignment:** Start of main project
-
-# Session 8
-**Topics covered:** Unsupervised Machine Learning
+# Session 8 - Unsupervised Machine Learning
+**Topics covered:** Principle component analysis and (K-means) clutering
 
 **Key libraries:** Sklearn
 
-**Geoscience topics/datasets used:** TBD
+**Geoscience topics/datasets used:** Multi-element Taiwan XRF core scan data
 
-**Assignment:** Main project
+# Session 9 - Supervised Machine Learning and Deep learning
+**Topics covered:** Random Forest, Multilayer Perceptron and performance metrics
 
-# Session 9
-**Topics covered:** Supervised Machine Learning and Deep learning
+**Key libraries:** Sklearn
 
-**Key libraries:** Sklearn, Keras/Tensorflow
+**Geoscience topics/datasets used:** Global rock geochemistry database
 
-**Geoscience topics/datasets used:** TBD
+**Assignment:** Start of main project
 
-**Assignment:** Main project
+# Session 10 - Code collaboration and Convolutional Neural Networks
+**Topics covered:** Git versioning, GitHub and Convolutional Neural Networks
 
-# Session 10
-**Topics covered:** Scientific Computing and Collaboration
+**Key libraries:** Keras/Tensorflow
 
-**Key libraries:**
-
-**Geoscience topics/datasets used:** TBD
-
-**Assignment:** Main project
+**Geoscience topics/datasets used:** CIFARO10 labelled images
 
